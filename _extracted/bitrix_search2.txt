@@ -1,0 +1,38 @@
+UF_CRM_1672135541793           | Боевые логины клиента                                   | string
+UF_CRM_1693298354712           | Заказ клиента                                           | string
+UF_CRM_1707985629865           | Номера ДО (Поставщики)                                  | double
+UF_CRM_1721828219              | Номер заказа поставщику (Перевыставление)               | string
+UF_CRM_1722504925              | Дата выставления счета                                  | date
+UF_CRM_1728653780              | Заказ клиента (Перепродажа)                             | string
+UF_CRM_1734616709              | Конечный покупатель                                     | crm
+UF_CRM_1736519656              | Компания от которой выставляется документ               | crm
+UF_CRM_1743773583              | Номер заказа клиента 1С                                 | string
+UF_CRM_1743774058              | Номер документа (производство без заказа) в 1С:ERP      | string
+UF_CRM_1749038925              | Договор с поставщиком:                                  | file
+UF_CRM_1751373674              | Наименование компаний (поставщиков)                     | iblock_element
+UF_CRM_1761630975644           | Номер документа в 1С                                    | string
+UF_CRM_1761806582927           | Дата выставления                                        | date
+UF_CRM_1768977461              | Поставщики                                              | crm
+UF_CRM_1775741479135           | Номера заказов поставщику                               | string
+UF_CRM_1781083217939           | Создать заказ клиента сразу                             | enumeration
+    8145: Да
+    8146: Нет
+UF_CRM_1782398428946           | Дата заказа клиента                                     | date
+UF_CRM_1782398774783           | Дата заказа поставщику                                  | date
+UF_CRM_1783070234649           | Разделить товары пропорционально заказам клиента        | enumeration
+    8176: Да
+    8177: Нет
+UF_CRM_UF_CLOSE_SYNC_ONEC      | Уведомление о закрытие обмена с 1С было? (System)       | boolean
+UF_ONEC_GUID                   | GUID в 1с (System)                                      | string
+UF_STOCK_IN_LIST_ID            | Склад получения (1С)                                    | iblock_element
+UF_STOCK_OUT_LIST_ID           | Склад выдачи (1С)                                       | iblock_element
+PARENT_ID_1048                 | Сметный отдел                                           | crm_entity
+PARENT_ID_1058                 | Проектирование                                          | crm_entity
+PARENT_ID_1062                 | СМР                                                     | crm_entity
+PARENT_ID_1102                 | Оформление допусков / аттестатов / сертификатов         | crm_entity
+PARENT_ID_146                  | Логистика и Снабжение                                   | crm_entity
+PARENT_ID_151                  | Договоры                                                | crm_entity
+PARENT_ID_159                  | Аренда(проживание)                                      | crm_entity
+
+STAGE_ID type=crm_status items=0
+{'type': 'crm_status', 'isRequired': False, 'isReadOnly': False, 'isImmutable': False, 'isMultiple': False, 'isDynamic': False, 'statusType': 'DEAL_STAGE', 'title': 'Стадия сделки'}

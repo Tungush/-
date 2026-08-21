@@ -1,0 +1,3300 @@
+Total fields: 667
+UF_CRM: 612
+
+=== ASSIGNED_BY_ID ===
+  title: Ответственный
+  type: user
+
+=== BEGINDATE ===
+  title: Дата начала
+  type: date
+
+=== CATEGORY_ID ===
+  title: Воронка
+  type: crm_category
+
+=== CLOSEDATE ===
+  title: Дата завершения
+  type: date
+
+=== COMMENTS ===
+  title: Комментарий
+  type: string
+
+=== COMPANY_ID ===
+  title: Компания
+  type: crm_company
+
+=== CURRENCY_ID ===
+  title: Валюта
+  type: crm_currency
+
+=== DATE_CREATE ===
+  title: Дата создания
+  type: datetime
+
+=== DATE_MODIFY ===
+  title: Дата изменения
+  type: datetime
+
+=== ID ===
+  title: ID
+  type: integer
+
+=== OPPORTUNITY ===
+  title: Сумма
+  type: double
+
+=== PARENT_ID_1058 ===
+  title: Проектирование
+  type: crm_entity
+
+=== PARENT_ID_146 ===
+  title: Логистика и Снабжение
+  type: crm_entity
+
+=== STAGE_ID ===
+  title: Стадия сделки
+  type: crm_status
+
+=== STAGE_SEMANTIC_ID ===
+  title: Группа стадии
+  type: string
+
+=== TITLE ===
+  title: Название
+  type: string
+
+=== UF_CRM_1611832124846 ===
+  title: UF_CRM_1611832124846
+  type: enumeration
+  items (3):
+    ID=4119 | VALUE=Открытый тендер
+    ID=4120 | VALUE=Запрос ценовых предложений
+    ID=4121 | VALUE=Аукцион
+
+=== UF_CRM_1611832173942 ===
+  title: UF_CRM_1611832173942
+  type: string
+
+=== UF_CRM_1611832214040 ===
+  title: UF_CRM_1611832214040
+  type: url
+
+=== UF_CRM_1611832288720 ===
+  title: UF_CRM_1611832288720
+  type: file
+
+=== UF_CRM_1611832701971 ===
+  title: UF_CRM_1611832701971
+  type: double
+
+=== UF_CRM_1613100649422 ===
+  title: UF_CRM_1613100649422
+  type: string
+
+=== UF_CRM_1615549096 ===
+  title: UF_CRM_1615549096
+  type: date
+
+=== UF_CRM_1615549143 ===
+  title: UF_CRM_1615549143
+  type: date
+
+=== UF_CRM_1615549401 ===
+  title: UF_CRM_1615549401
+  type: file
+
+=== UF_CRM_1615550086 ===
+  title: UF_CRM_1615550086
+  type: enumeration
+  items (2):
+    ID=4113 | VALUE=Услуги по предоставлению доступа к информационному сервису «Adata»
+    ID=4114 | VALUE=Выгрузка данных
+
+=== UF_CRM_1615912474 ===
+  title: UF_CRM_1615912474
+  type: enumeration
+  items (5):
+    ID=4006 | VALUE=100% предоплата
+    ID=4007 | VALUE=Помесячно
+    ID=4008 | VALUE=Поквартально
+    ID=4009 | VALUE=По полгода
+    ID=4010 | VALUE=100% постоплата
+
+=== UF_CRM_1616040390 ===
+  title: UF_CRM_1616040390
+  type: double
+
+=== UF_CRM_1616045316 ===
+  title: UF_CRM_1616045316
+  type: string
+
+=== UF_CRM_1616148730 ===
+  title: UF_CRM_1616148730
+  type: enumeration
+  items (2):
+    ID=4090 | VALUE=Согласно условиям договора
+    ID=4091 | VALUE=Досрочно
+
+=== UF_CRM_1617009914 ===
+  title: UF_CRM_1617009914
+  type: integer
+
+=== UF_CRM_1631708129004 ===
+  title: UF_CRM_1631708129004
+  type: string
+
+=== UF_CRM_1631708196467 ===
+  title: UF_CRM_1631708196467
+  type: date
+
+=== UF_CRM_1631708246514 ===
+  title: UF_CRM_1631708246514
+  type: date
+
+=== UF_CRM_1631708294354 ===
+  title: UF_CRM_1631708294354
+  type: file
+
+=== UF_CRM_1631708580445 ===
+  title: UF_CRM_1631708580445
+  type: enumeration
+  items (6):
+    ID=4011 | VALUE=100% предоплата
+    ID=4012 | VALUE=Помесячно
+    ID=4013 | VALUE=Поквартально
+    ID=4014 | VALUE=По полгода
+    ID=4015 | VALUE=100% постоплата
+    ID=4016 | VALUE=Рассрочка
+
+=== UF_CRM_1631708683163 ===
+  title: UF_CRM_1631708683163
+  type: enumeration
+  items (2):
+    ID=4092 | VALUE=Согласно условиям договора
+    ID=4093 | VALUE=Досрочно
+
+=== UF_CRM_1631708771370 ===
+  title: UF_CRM_1631708771370
+  type: enumeration
+  items (3):
+    ID=3620 | VALUE=СБ
+    ID=3621 | VALUE=Россия
+    ID=3622 | VALUE=Нет необходимости
+
+=== UF_CRM_1635505279739 ===
+  title: UF_CRM_1635505279739
+  type: string
+
+=== UF_CRM_1637144215605 ===
+  title: UF_CRM_1637144215605
+  type: string
+
+=== UF_CRM_1637144338229 ===
+  title: UF_CRM_1637144338229
+  type: double
+
+=== UF_CRM_1637144456043 ===
+  title: UF_CRM_1637144456043
+  type: double
+
+=== UF_CRM_1649677375551 ===
+  title: UF_CRM_1649677375551
+  type: enumeration
+  items (5):
+    ID=4056 | VALUE=Компра
+    ID=4057 | VALUE=ПК Учет
+    ID=4058 | VALUE=Параграф
+    ID=4059 | VALUE=Спарк
+    ID=4060 | VALUE=Контур Фокус
+
+=== UF_CRM_1649678564556 ===
+  title: UF_CRM_1649678564556
+  type: enumeration
+  items (9):
+    ID=4094 | VALUE=Топ-менеджмент
+    ID=4095 | VALUE=Служба безопасности
+    ID=4096 | VALUE=Финансовая служба
+    ID=4097 | VALUE=Отдел продаж
+    ID=4098 | VALUE=Юридический отдел
+    ID=4099 | VALUE=Отдел кадров
+    ID=4100 | VALUE=Отдел комплаенс
+    ID=4101 | VALUE=Закупки
+    ID=4102 | VALUE=Другое
+
+=== UF_CRM_1649679378393 ===
+  title: UF_CRM_1649679378393
+  type: enumeration
+  items (10):
+    ID=4103 | VALUE=Топ-менеджмент компании
+    ID=4104 | VALUE=Служба безопасности
+    ID=4105 | VALUE=Финансовая служба
+    ID=4106 | VALUE=Отдел Бухгалтерии
+    ID=4107 | VALUE=Отдел продаж
+    ID=4108 | VALUE=Юридический отдел
+    ID=4109 | VALUE=Отдел маркетинга
+    ID=4110 | VALUE=Отдел закупок и логистики
+    ID=4111 | VALUE=Отдел кадров
+    ID=4112 | VALUE=Отдел комплаенс
+
+=== UF_CRM_1649679601055 ===
+  title: UF_CRM_1649679601055
+  type: enumeration
+  items (10):
+    ID=4074 | VALUE=Топ-менеджмент компании
+    ID=4075 | VALUE=Служба безопасности
+    ID=4076 | VALUE=Финансовая служба
+    ID=4077 | VALUE=Отдел Бухгалтерии
+    ID=4078 | VALUE=Отдел продаж
+    ID=4079 | VALUE=Юридический отдел
+    ID=4080 | VALUE=Отдел маркетинга
+    ID=4081 | VALUE=Отдел закупок и логистики
+    ID=4082 | VALUE=Отдел кадров
+    ID=4083 | VALUE=Отдел комплаенс
+
+=== UF_CRM_1649679919032 ===
+  title: UF_CRM_1649679919032
+  type: string
+
+=== UF_CRM_1649682393140 ===
+  title: UF_CRM_1649682393140
+  type: boolean
+
+=== UF_CRM_1649682881241 ===
+  title: UF_CRM_1649682881241
+  type: boolean
+
+=== UF_CRM_1649683429037 ===
+  title: UF_CRM_1649683429037
+  type: file
+
+=== UF_CRM_1649684529577 ===
+  title: UF_CRM_1649684529577
+  type: enumeration
+  items (6):
+    ID=4061 | VALUE=Компра
+    ID=4062 | VALUE=ПК Учет
+    ID=4063 | VALUE=Параграф
+    ID=4064 | VALUE=Спарк
+    ID=4065 | VALUE=Контур Фокус
+    ID=4066 | VALUE=Отсутствуют
+
+=== UF_CRM_1649852662973 ===
+  title: UF_CRM_1649852662973
+  type: boolean
+
+=== UF_CRM_1649852811736 ===
+  title: UF_CRM_1649852811736
+  type: enumeration
+  items (2):
+    ID=4017 | VALUE=Нужен визит
+    ID=4018 | VALUE=Не нужен визит
+
+=== UF_CRM_1649852917314 ===
+  title: UF_CRM_1649852917314
+  type: enumeration
+  items (2):
+    ID=3594 | VALUE=Нужен визит
+    ID=3595 | VALUE=Не нужен визит
+
+=== UF_CRM_1649853155056 ===
+  title: UF_CRM_1649853155056
+  type: enumeration
+  items (12):
+    ID=4019 | VALUE=Алматы
+    ID=4020 | VALUE=Нұр-Сұлтан
+    ID=4021 | VALUE=Шымкент
+    ID=4022 | VALUE=Атырау
+    ID=4023 | VALUE=Актау
+    ID=4024 | VALUE=Актобе
+    ID=4025 | VALUE=Караганда
+    ID=4026 | VALUE=Тараз
+    ID=4027 | VALUE=Павлодар
+    ID=4028 | VALUE=Семей
+    ID=4029 | VALUE=Костанай
+    ID=4030 | VALUE=Другое
+
+=== UF_CRM_1649853279375 ===
+  title: UF_CRM_1649853279375
+  type: enumeration
+  items (12):
+    ID=4031 | VALUE=Алматы
+    ID=4032 | VALUE=Нұр-Сұлтан
+    ID=4033 | VALUE=Шымкент
+    ID=4034 | VALUE=Атырау
+    ID=4035 | VALUE=Актау
+    ID=4036 | VALUE=Актобе
+    ID=4037 | VALUE=Караганда
+    ID=4038 | VALUE=Тараз
+    ID=4039 | VALUE=Павлодар
+    ID=4040 | VALUE=Семей
+    ID=4041 | VALUE=Костанай
+    ID=4042 | VALUE=Другое
+
+=== UF_CRM_1649853419935 ===
+  title: UF_CRM_1649853419935
+  type: boolean
+
+=== UF_CRM_1649853445808 ===
+  title: UF_CRM_1649853445808
+  type: boolean
+
+=== UF_CRM_1649854653751 ===
+  title: UF_CRM_1649854653751
+  type: boolean
+
+=== UF_CRM_1649854701819 ===
+  title: UF_CRM_1649854701819
+  type: string
+
+=== UF_CRM_1649854747003 ===
+  title: UF_CRM_1649854747003
+  type: date
+
+=== UF_CRM_1649854839710 ===
+  title: UF_CRM_1649854839710
+  type: date
+
+=== UF_CRM_1650265051631 ===
+  title: UF_CRM_1650265051631
+  type: enumeration
+  items (2):
+    ID=4004 | VALUE=Да
+    ID=4005 | VALUE=Нет
+
+=== UF_CRM_1650265285514 ===
+  title: UF_CRM_1650265285514
+  type: enumeration
+  items (6):
+    ID=4050 | VALUE=Компра
+    ID=4051 | VALUE=ПК-Учет
+    ID=4052 | VALUE=Параграф
+    ID=4053 | VALUE=Контр фокус
+    ID=4054 | VALUE=Спарк
+    ID=4055 | VALUE=Нет конкурентов
+
+=== UF_CRM_1664956345680 ===
+  title: UF_CRM_1664956345680
+  type: file
+
+=== UF_CRM_1665336030 ===
+  title: UF_CRM_1665336030
+  type: enumeration
+  items (31):
+    ID=1558 | VALUE=Видеонаблюдение
+    ID=1560 | VALUE=Монтаж поликорбоната
+    ID=1562 | VALUE=Обслуживание пультов СОРМ
+    ID=1564 | VALUE=Обслуживание систем безопасности
+    ID=1566 | VALUE=Поставка бытовых кондиционеров
+    ID=1568 | VALUE=Поставка вакуумных выключателей
+    ID=1570 | VALUE=Поставка ДГУ
+    ID=1572 | VALUE=Поставка дизельного генератора
+    ID=1574 | VALUE=Поставка и смр металлокострукций
+    ID=1576 | VALUE=Поставка ИБП
+    ID=1578 | VALUE=Поставка кабеля и оборудования
+    ID=1580 | VALUE=Поставка компьютера
+    ID=1582 | VALUE=Поставка коннекторов и оптики
+    ID=1584 | VALUE=Поставка мебели и оборудования
+    ID=1586 | VALUE=Поставка металлических изготовлении
+    ID=1588 | VALUE=Поставка обогревателя
+    ID=1590 | VALUE=Поставка санитайзеров
+    ID=1592 | VALUE=Поставка трансформатора
+    ID=1594 | VALUE=Поставка шкафа управления
+    ID=1596 | VALUE=Работы по ремонту/реконструкции
+    ID=1598 | VALUE=Ремонтно-восстановительные работы
+    ID=1600 | VALUE=Системы безопасности
+    ID=1602 | VALUE=СМР
+    ID=1604 | VALUE=СМР ВОЛС
+    ID=1606 | VALUE=Техническое обслуживание систем безопасности
+    ID=2136 | VALUE=БМЗ
+    ID=2140 | VALUE=Работы по реконструкции структурированной кабельной сети
+    ID=2945 | VALUE=Поставка телекоммуникационного оборудования
+    ID=2947 | VALUE=ЭМР
+    ID=2951 | VALUE=IP-телефония
+    ID=3495 | VALUE=Услуги по предоставлению доступа Adata
+
+=== UF_CRM_1665336183 ===
+  title: UF_CRM_1665336183
+  type: enumeration
+  items (8):
+    ID=1852 | VALUE=Без тендера
+    ID=1608 | VALUE=Аукцион
+    ID=1610 | VALUE=Запрос ценовых предложений
+    ID=1612 | VALUE=Запрос ценовых предложений на понижение
+    ID=1614 | VALUE=Из одного источника
+    ID=1616 | VALUE=Квалификационный отбор
+    ID=1618 | VALUE=Открытый конкурс
+    ID=1620 | VALUE=Открытый конкурс на понижение
+
+=== UF_CRM_1665336474 ===
+  title: UF_CRM_1665336474
+  type: enumeration
+  items (20):
+    ID=1622 | VALUE=Специальный порядок
+    ID=1624 | VALUE=Самрук Казына
+    ID=1626 | VALUE=Митворк
+    ID=1628 | VALUE=Интегра
+    ID=1630 | VALUE=Госзакуп
+    ID=1632 | VALUE=НацБанк
+    ID=1634 | VALUE=Прямой запрос
+    ID=1636 | VALUE=torgi.erg
+    ID=1638 | VALUE=e-port
+    ID=1640 | VALUE=ets-tender
+    ID=1642 | VALUE=mp.com
+    ID=1644 | VALUE=Брокер
+    ID=1646 | VALUE=Реестр надлок
+    ID=1648 | VALUE=Базис
+    ID=1650 | VALUE=BI-group
+    ID=1652 | VALUE=eurasiantech-tender
+    ID=2144 | VALUE=centermarket.kz
+    ID=2148 | VALUE=etbemp.kz
+    ID=2955 | VALUE=Oracle ESS
+    ID=3482 | VALUE=td.ccx.kz
+
+=== UF_CRM_1665466842 ===
+  title: UF_CRM_1665466842
+  type: enumeration
+  items (6):
+    ID=1654 | VALUE=ТОО «Аврора Сервис»
+    ID=1656 | VALUE=ТОО «LVE Group»
+    ID=1658 | VALUE=ТОО "Wisk Telecom Solutions"
+    ID=2132 | VALUE=ТОО «Аврора 77»
+    ID=3491 | VALUE=ТОО "Adata"
+    ID=5135 | VALUE=ТОО "Аврора 75"
+
+=== UF_CRM_1665467024 ===
+  title: UF_CRM_1665467024
+  type: string
+
+=== UF_CRM_1665467048 ===
+  title: UF_CRM_1665467048
+  type: string
+
+=== UF_CRM_1666782686 ===
+  title: UF_CRM_1666782686
+  type: file
+
+=== UF_CRM_1666782771 ===
+  title: UF_CRM_1666782771
+  type: boolean
+
+=== UF_CRM_1666782828 ===
+  title: UF_CRM_1666782828
+  type: file
+
+=== UF_CRM_1666782875 ===
+  title: UF_CRM_1666782875
+  type: file
+
+=== UF_CRM_1666782989 ===
+  title: UF_CRM_1666782989
+  type: file
+
+=== UF_CRM_1666783421 ===
+  title: UF_CRM_1666783421
+  type: file
+
+=== UF_CRM_1666942838 ===
+  title: UF_CRM_1666942838
+  type: datetime
+
+=== UF_CRM_1666942910 ===
+  title: UF_CRM_1666942910
+  type: datetime
+
+=== UF_CRM_1666944423 ===
+  title: UF_CRM_1666944423
+  type: string
+
+=== UF_CRM_1667281404 ===
+  title: UF_CRM_1667281404
+  type: file
+
+=== UF_CRM_1667290758 ===
+  title: UF_CRM_1667290758
+  type: double
+
+=== UF_CRM_1667294715 ===
+  title: UF_CRM_1667294715
+  type: double
+
+=== UF_CRM_1667473207 ===
+  title: UF_CRM_1667473207
+  type: string
+
+=== UF_CRM_1667473482 ===
+  title: UF_CRM_1667473482
+  type: url
+
+=== UF_CRM_1667474075 ===
+  title: UF_CRM_1667474075
+  type: string
+
+=== UF_CRM_1667474141 ===
+  title: UF_CRM_1667474141
+  type: string
+
+=== UF_CRM_1667474211 ===
+  title: UF_CRM_1667474211
+  type: string
+
+=== UF_CRM_1667760345 ===
+  title: UF_CRM_1667760345
+  type: employee
+
+=== UF_CRM_1667909648 ===
+  title: UF_CRM_1667909648
+  type: file
+
+=== UF_CRM_1668599304 ===
+  title: UF_CRM_1668599304
+  type: file
+
+=== UF_CRM_1668601151 ===
+  title: UF_CRM_1668601151
+  type: string
+
+=== UF_CRM_1668602542 ===
+  title: UF_CRM_1668602542
+  type: date
+
+=== UF_CRM_1672132689702 ===
+  title: UF_CRM_1672132689702
+  type: money
+
+=== UF_CRM_1672133091815 ===
+  title: UF_CRM_1672133091815
+  type: enumeration
+  items (5):
+    ID=4067 | VALUE=Адата
+    ID=4068 | VALUE=Виск
+    ID=4069 | VALUE=Компра
+    ID=4070 | VALUE=СБ24
+    ID=4071 | VALUE=Другое
+
+=== UF_CRM_1672133155083 ===
+  title: UF_CRM_1672133155083
+  type: enumeration
+  items (4):
+    ID=4046 | VALUE=Адата
+    ID=4047 | VALUE=Компра
+    ID=4048 | VALUE=СБ24
+    ID=4049 | VALUE=Другое
+
+=== UF_CRM_1672133259192 ===
+  title: UF_CRM_1672133259192
+  type: string
+
+=== UF_CRM_1672133302018 ===
+  title: UF_CRM_1672133302018
+  type: date
+
+=== UF_CRM_1672133323669 ===
+  title: UF_CRM_1672133323669
+  type: date
+
+=== UF_CRM_1672133354805 ===
+  title: UF_CRM_1672133354805
+  type: string
+
+=== UF_CRM_1672133418560 ===
+  title: UF_CRM_1672133418560
+  type: enumeration
+  items (3):
+    ID=4122 | VALUE=Запрос ценовых предложений
+    ID=4123 | VALUE=Тендер на понижение
+    ID=4124 | VALUE=Открытый тендер
+
+=== UF_CRM_1672133464820 ===
+  title: UF_CRM_1672133464820
+  type: enumeration
+  items (4):
+    ID=4086 | VALUE=Самрук-Казына
+    ID=4087 | VALUE=Гос. закупки
+    ID=4088 | VALUE=Mitwork
+    ID=4089 | VALUE=Другое
+
+=== UF_CRM_1672133513071 ===
+  title: UF_CRM_1672133513071
+  type: file
+
+=== UF_CRM_1672133525926 ===
+  title: UF_CRM_1672133525926
+  type: file
+
+=== UF_CRM_1672133560044 ===
+  title: UF_CRM_1672133560044
+  type: file
+
+=== UF_CRM_1672133618059 ===
+  title: UF_CRM_1672133618059
+  type: date
+
+=== UF_CRM_1672133646467 ===
+  title: UF_CRM_1672133646467
+  type: date
+
+=== UF_CRM_1672133711719 ===
+  title: UF_CRM_1672133711719
+  type: file
+
+=== UF_CRM_1672135381330 ===
+  title: UF_CRM_1672135381330
+  type: enumeration
+  items (3):
+    ID=4043 | VALUE=Ежеквартально
+    ID=4044 | VALUE=на 100% стоимости договора
+    ID=4045 | VALUE=Ежемесячно
+
+=== UF_CRM_1672135452663 ===
+  title: UF_CRM_1672135452663
+  type: enumeration
+  items (2):
+    ID=4072 | VALUE=Да
+    ID=4073 | VALUE=Нет
+
+=== UF_CRM_1672135484436 ===
+  title: UF_CRM_1672135484436
+  type: date
+
+=== UF_CRM_1672135503402 ===
+  title: UF_CRM_1672135503402
+  type: date
+
+=== UF_CRM_1672135541793 ===
+  title: UF_CRM_1672135541793
+  type: string
+
+=== UF_CRM_1672135623122 ===
+  title: UF_CRM_1672135623122
+  type: string
+
+=== UF_CRM_1674826014 ===
+  title: UF_CRM_1674826014
+  type: employee
+
+=== UF_CRM_1677823613913 ===
+  title: UF_CRM_1677823613913
+  type: enumeration
+  items (5):
+    ID=2928 | VALUE=Выиграли
+    ID=2930 | VALUE=Проиграли
+    ID=2936 | VALUE=Не состоялся
+    ID=3486 | VALUE=Не участвовали
+    ID=3488 | VALUE=Ошибка или дуликат
+
+=== UF_CRM_1681269306324 ===
+  title: UF_CRM_1681269306324
+  type: string
+
+=== UF_CRM_1682334520616 ===
+  title: UF_CRM_1682334520616
+  type: file
+
+=== UF_CRM_1690169191 ===
+  title: UF_CRM_1690169191
+  type: iblock_element
+
+=== UF_CRM_1690169216 ===
+  title: UF_CRM_1690169216
+  type: iblock_element
+
+=== UF_CRM_1691061242472 ===
+  title: UF_CRM_1691061242472
+  type: string
+
+=== UF_CRM_1691061462902 ===
+  title: UF_CRM_1691061462902
+  type: string
+
+=== UF_CRM_1691061489870 ===
+  title: UF_CRM_1691061489870
+  type: string
+
+=== UF_CRM_1691061522 ===
+  title: UF_CRM_1691061522
+  type: date
+
+=== UF_CRM_1691061574 ===
+  title: UF_CRM_1691061574
+  type: date
+
+=== UF_CRM_1691061627458 ===
+  title: UF_CRM_1691061627458
+  type: file
+
+=== UF_CRM_1691061639385 ===
+  title: UF_CRM_1691061639385
+  type: file
+
+=== UF_CRM_1691061886810 ===
+  title: UF_CRM_1691061886810
+  type: enumeration
+  items (10):
+    ID=3542 | VALUE=Топ-менеджмент компании
+    ID=3543 | VALUE=Служба безопасности
+    ID=3544 | VALUE=Финансовая служба
+    ID=3545 | VALUE=Отдел Бухгалтерии
+    ID=3546 | VALUE=Отдел продаж
+    ID=3547 | VALUE=Юридический отдел
+    ID=3548 | VALUE=Отдел маркетинга
+    ID=3549 | VALUE=Отдел закупок и логистики
+    ID=3550 | VALUE=Отдел кадров
+    ID=3990 | VALUE=Отдел комплаенс
+
+=== UF_CRM_1691062005226 ===
+  title: UF_CRM_1691062005226
+  type: enumeration
+  items (12):
+    ID=3525 | VALUE=Алматы
+    ID=3526 | VALUE=Нұр-Сұлтан
+    ID=3527 | VALUE=Шымкент
+    ID=3528 | VALUE=Атырау
+    ID=3529 | VALUE=Актау
+    ID=3530 | VALUE=Актобе
+    ID=3531 | VALUE=Караганда
+    ID=3532 | VALUE=Тараз
+    ID=3533 | VALUE=Павлодар
+    ID=3534 | VALUE=Семей
+    ID=3535 | VALUE=Костанай
+    ID=3536 | VALUE=Другое
+
+=== UF_CRM_1691987960387 ===
+  title: UF_CRM_1691987960387
+  type: enumeration
+  items (5):
+    ID=3910 | VALUE=100% предоплата
+    ID=3911 | VALUE=Помесячно
+    ID=3912 | VALUE=Поквартально
+    ID=3913 | VALUE=По полгода
+    ID=3914 | VALUE=100% постоплата
+
+=== UF_CRM_1691988048311 ===
+  title: UF_CRM_1691988048311
+  type: enumeration
+  items (3):
+    ID=3915 | VALUE=Согласно условиям договора (квартально)
+    ID=3916 | VALUE=Досрочно (единоразово)
+    ID=4422 | VALUE=Ежемесячно
+
+=== UF_CRM_1692010039347 ===
+  title: UF_CRM_1692010039347
+  type: enumeration
+  items (3):
+    ID=3936 | VALUE=Открытый тендер
+    ID=3937 | VALUE=Запрос ценовых предложений
+    ID=3938 | VALUE=Аукцион
+
+=== UF_CRM_1692010124375 ===
+  title: UF_CRM_1692010124375
+  type: string
+
+=== UF_CRM_1692010151696 ===
+  title: UF_CRM_1692010151696
+  type: string
+
+=== UF_CRM_1692010165988 ===
+  title: UF_CRM_1692010165988
+  type: string
+
+=== UF_CRM_1692010221129 ===
+  title: UF_CRM_1692010221129
+  type: string
+
+=== UF_CRM_1692010347655 ===
+  title: UF_CRM_1692010347655
+  type: enumeration
+  items (6):
+    ID=3939 | VALUE=100% предоплата
+    ID=3940 | VALUE=Помесячно
+    ID=3941 | VALUE=Поквартально
+    ID=3942 | VALUE=По полгода
+    ID=3943 | VALUE=100% постоплата
+    ID=3944 | VALUE=Рассрочка
+
+=== UF_CRM_1692010451211 ===
+  title: UF_CRM_1692010451211
+  type: string
+
+=== UF_CRM_1692010503781 ===
+  title: UF_CRM_1692010503781
+  type: string
+
+=== UF_CRM_1692010749 ===
+  title: UF_CRM_1692010749
+  type: double
+
+=== UF_CRM_1692010815959 ===
+  title: UF_CRM_1692010815959
+  type: enumeration
+  items (5):
+    ID=3945 | VALUE=Компра
+    ID=3946 | VALUE=ПК Учет
+    ID=3947 | VALUE=Параграф
+    ID=3948 | VALUE=Спарк
+    ID=3949 | VALUE=Контур Фокус
+
+=== UF_CRM_1692010900397 ===
+  title: UF_CRM_1692010900397
+  type: enumeration
+  items (10):
+    ID=3950 | VALUE=Топ-менеджмент компании
+    ID=3951 | VALUE=Служба безопасности
+    ID=3952 | VALUE=Финансовая служба
+    ID=3953 | VALUE=Отдел Бухгалтерии
+    ID=3954 | VALUE=Отдел продаж
+    ID=3955 | VALUE=Юридический отдел
+    ID=3956 | VALUE=Отдел маркетинга
+    ID=3957 | VALUE=Отдел закупок и логистики
+    ID=3958 | VALUE=Отдел кадров
+    ID=3959 | VALUE=Отдел комплаенс
+
+=== UF_CRM_1692010953 ===
+  title: UF_CRM_1692010953
+  type: string
+
+=== UF_CRM_1692069892641 ===
+  title: UF_CRM_1692069892641
+  type: enumeration
+  items (2):
+    ID=3984 | VALUE=Услуги по предоставлению доступа к информационному сервису «Adata»
+    ID=3985 | VALUE=Выгрузка данных
+
+=== UF_CRM_1692070018 ===
+  title: UF_CRM_1692070018
+  type: double
+
+=== UF_CRM_1692070316764 ===
+  title: UF_CRM_1692070316764
+  type: enumeration
+  items (4):
+    ID=3986 | VALUE=Не обработан
+    ID=3987 | VALUE=В работе
+    ID=3988 | VALUE=Качественный лид
+    ID=3989 | VALUE=Некачественный лид
+
+=== UF_CRM_1692597375708 ===
+  title: UF_CRM_1692597375708
+  type: enumeration
+  items (2):
+    ID=3999 | VALUE=Электронный
+    ID=4000 | VALUE=Бумажный
+
+=== UF_CRM_1692597555804 ===
+  title: UF_CRM_1692597555804
+  type: file
+
+=== UF_CRM_1692597591192 ===
+  title: UF_CRM_1692597591192
+  type: file
+
+=== UF_CRM_1692599212889 ===
+  title: UF_CRM_1692599212889
+  type: money
+
+=== UF_CRM_1692599366 ===
+  title: UF_CRM_1692599366
+  type: money
+
+=== UF_CRM_1692599968621 ===
+  title: UF_CRM_1692599968621
+  type: file
+
+=== UF_CRM_1692599995461 ===
+  title: UF_CRM_1692599995461
+  type: file
+
+=== UF_CRM_1692601042 ===
+  title: UF_CRM_1692601042
+  type: string
+
+=== UF_CRM_1692605372117 ===
+  title: UF_CRM_1692605372117
+  type: string
+
+=== UF_CRM_1692946992 ===
+  title: UF_CRM_1692946992
+  type: string
+
+=== UF_CRM_1692947058 ===
+  title: UF_CRM_1692947058
+  type: datetime
+
+=== UF_CRM_1693221956684 ===
+  title: UF_CRM_1693221956684
+  type: string
+
+=== UF_CRM_1693222027143 ===
+  title: UF_CRM_1693222027143
+  type: date
+
+=== UF_CRM_1693222085406 ===
+  title: UF_CRM_1693222085406
+  type: date
+
+=== UF_CRM_1693222479506 ===
+  title: UF_CRM_1693222479506
+  type: string
+
+=== UF_CRM_1693298354712 ===
+  title: UF_CRM_1693298354712
+  type: string
+
+=== UF_CRM_1693976975 ===
+  title: UF_CRM_1693976975
+  type: date
+
+=== UF_CRM_1693977183 ===
+  title: UF_CRM_1693977183
+  type: date
+
+=== UF_CRM_1694521956082 ===
+  title: UF_CRM_1694521956082
+  type: enumeration
+  items (4):
+    ID=4191 | VALUE=1
+    ID=4192 | VALUE=2
+    ID=4193 | VALUE=3
+    ID=4194 | VALUE=4
+
+=== UF_CRM_1694585846077 ===
+  title: UF_CRM_1694585846077
+  type: enumeration
+  items (2):
+    ID=4189 | VALUE=Да
+    ID=4190 | VALUE=Нет
+
+=== UF_CRM_1695959129006 ===
+  title: UF_CRM_1695959129006
+  type: enumeration
+  items (3):
+    ID=4556 | VALUE=На сайт
+    ID=4557 | VALUE=На склад
+    ID=7397 | VALUE=Выдача оборудования
+
+=== UF_CRM_1695959500562 ===
+  title: UF_CRM_1695959500562
+  type: string
+
+=== UF_CRM_1695959583 ===
+  title: UF_CRM_1695959583
+  type: iblock_element
+
+=== UF_CRM_1695959676015 ===
+  title: UF_CRM_1695959676015
+  type: enumeration
+  items (3):
+    ID=4665 | VALUE=Заявка в отдел логистики
+    ID=4666 | VALUE=Бригада
+    ID=4667 | VALUE=Самовывоз
+
+=== UF_CRM_1695959710654 ===
+  title: UF_CRM_1695959710654
+  type: string
+
+=== UF_CRM_1695975725993 ===
+  title: UF_CRM_1695975725993
+  type: string
+
+=== UF_CRM_1696331830205 ===
+  title: UF_CRM_1696331830205
+  type: enumeration
+  items (4):
+    ID=4671 | VALUE=На согласовании
+    ID=4672 | VALUE=К отгрузке
+    ID=4673 | VALUE=В резерве
+    ID=4674 | VALUE=Закрыт
+
+=== UF_CRM_1697005325902 ===
+  title: UF_CRM_1697005325902
+  type: enumeration
+  items (3):
+    ID=4688 | VALUE=Электронный
+    ID=4689 | VALUE=Бумажный
+    ID=4690 | VALUE=На портал
+
+=== UF_CRM_1698122453 ===
+  title: UF_CRM_1698122453
+  type: employee
+
+=== UF_CRM_1698124622 ===
+  title: UF_CRM_1698124622
+  type: employee
+
+=== UF_CRM_1698146293 ===
+  title: UF_CRM_1698146293
+  type: employee
+
+=== UF_CRM_1698812862550 ===
+  title: UF_CRM_1698812862550
+  type: enumeration
+  items (19):
+    ID=6091 | VALUE=Склад Аврора 71П Контейнер Ходжанова
+    ID=6092 | VALUE=Склад Аврора Астана
+    ID=6093 | VALUE=Склад Аврора Актау
+    ID=6094 | VALUE=Склад Аврора Актобе
+    ID=6095 | VALUE=Склад Аврора Атырау
+    ID=6096 | VALUE=Склад Аврора Караганда
+    ID=6097 | VALUE=Склад Аврора Кызылорда
+    ID=6098 | VALUE=Склад Аврора Костанай
+    ID=6099 | VALUE=Склад Аврора Павлодар
+    ID=6100 | VALUE=Склад Аврора Петропавловск
+    ID=6101 | VALUE=Склад Аврора Семей
+    ID=6102 | VALUE=Склад Аврора Талдыкорган
+    ID=6103 | VALUE=Склад Аврора Тараз
+    ID=6104 | VALUE=Склад Аврора Шымкент
+    ID=6105 | VALUE=Склад Аврора Уральск
+    ID=6106 | VALUE=Склад Аврора Усть-Каменогорск
+    ID=6107 | VALUE=Склад Аврора ЭТЗ
+    ID=6108 | VALUE=Склад Аврора 77 ЦМК
+    ID=6109 | VALUE=Склад Kcell
+
+=== UF_CRM_1698816090552 ===
+  title: UF_CRM_1698816090552
+  type: enumeration
+  items (20):
+    ID=6110 | VALUE=Склад Аврора 71П Контейнер Ходжанова
+    ID=6111 | VALUE=Склад Аврора Астана
+    ID=6112 | VALUE=Склад Аврора Актау
+    ID=6113 | VALUE=Склад Аврора Актобе
+    ID=6114 | VALUE=Склад Аврора Атырау
+    ID=6115 | VALUE=Склад Аврора Караганда
+    ID=6116 | VALUE=Склад Аврора Талдыкорган
+    ID=6117 | VALUE=Склад Аврора ЭТЗ(1)
+    ID=6118 | VALUE=Склад Аврора Кызылорда
+    ID=6119 | VALUE=Склад Аврора Костанай
+    ID=6120 | VALUE=Склад Аврора Павлодар
+    ID=6121 | VALUE=Склад Аврора Петропавловск
+    ID=6122 | VALUE=Склад Аврора Семей
+    ID=6123 | VALUE=Склад Аврора Тараз
+    ID=6124 | VALUE=Склад Аврора Шымкент
+    ID=6125 | VALUE=Склад Аврора Уральск
+    ID=6126 | VALUE=Склад Аврора Усть-Каменогорск
+    ID=6127 | VALUE=Склад Аврора ЭТЗ
+    ID=6128 | VALUE=Склад Аврора ЦМК
+    ID=6129 | VALUE=Склад Аврора Kcell
+
+=== UF_CRM_1699868867936 ===
+  title: UF_CRM_1699868867936
+  type: string
+
+=== UF_CRM_1699868885804 ===
+  title: UF_CRM_1699868885804
+  type: string
+
+=== UF_CRM_1699868897916 ===
+  title: UF_CRM_1699868897916
+  type: string
+
+=== UF_CRM_1706274250 ===
+  title: UF_CRM_1706274250
+  type: employee
+
+=== UF_CRM_1707914347098 ===
+  title: UF_CRM_1707914347098
+  type: double
+
+=== UF_CRM_1707914363130 ===
+  title: UF_CRM_1707914363130
+  type: double
+
+=== UF_CRM_1707976273238 ===
+  title: UF_CRM_1707976273238
+  type: string
+
+=== UF_CRM_1707985629865 ===
+  title: UF_CRM_1707985629865
+  type: double
+
+=== UF_CRM_1707997652662 ===
+  title: UF_CRM_1707997652662
+  type: double
+
+=== UF_CRM_1707998114 ===
+  title: UF_CRM_1707998114
+  type: iblock_element
+
+=== UF_CRM_1707998503 ===
+  title: UF_CRM_1707998503
+  type: iblock_element
+
+=== UF_CRM_1707998951342 ===
+  title: UF_CRM_1707998951342
+  type: string
+
+=== UF_CRM_1709112116 ===
+  title: UF_CRM_1709112116
+  type: double
+
+=== UF_CRM_1709113227 ===
+  title: UF_CRM_1709113227
+  type: enumeration
+  items (20):
+    ID=5178 | VALUE=Алматы
+    ID=5179 | VALUE=Астана
+    ID=5180 | VALUE=Шымкент
+    ID=5181 | VALUE=Абайская область
+    ID=5182 | VALUE=Акмолинская область
+    ID=5183 | VALUE=Актюбинская область
+    ID=5184 | VALUE=Алматинская область
+    ID=5185 | VALUE=Атырауская область
+    ID=5186 | VALUE=Восточно-Казахстанская область
+    ID=5187 | VALUE=Жамбылская область
+    ID=5188 | VALUE=Жетысуская область
+    ID=5189 | VALUE=Западно-Казахстанская область
+    ID=5190 | VALUE=Карагандинская область
+    ID=5191 | VALUE=Костанайская область
+    ID=5192 | VALUE=Кызылординская область
+    ID=5193 | VALUE=Мангистауская область
+    ID=5194 | VALUE=Павлодарская область
+    ID=5195 | VALUE=Северо-Казахстанская область
+    ID=5196 | VALUE=Туркестанская область
+    ID=5197 | VALUE=Улытауская область
+
+=== UF_CRM_1709189980 ===
+  title: UF_CRM_1709189980
+  type: string
+
+=== UF_CRM_1710144345 ===
+  title: UF_CRM_1710144345
+  type: double
+
+=== UF_CRM_1710252214728 ===
+  title: UF_CRM_1710252214728
+  type: datetime
+
+=== UF_CRM_1712651824 ===
+  title: UF_CRM_1712651824
+  type: enumeration
+  items (91):
+    ID=5296 | VALUE=Абай
+    ID=5297 | VALUE=Акколь
+    ID=5298 | VALUE=Аксай
+    ID=5299 | VALUE=Аксу
+    ID=5300 | VALUE=Актау
+    ID=5301 | VALUE=Актобе
+    ID=5302 | VALUE=Алга
+    ID=5303 | VALUE=Алматы
+    ID=5304 | VALUE=Алтай
+    ID=5305 | VALUE=Арал
+    ID=5306 | VALUE=Аркалык
+    ID=5307 | VALUE=Арыс
+    ID=5308 | VALUE=Астана
+    ID=5309 | VALUE=Атбасар
+    ID=5310 | VALUE=Атырау
+    ID=5311 | VALUE=Аягоз
+    ID=5312 | VALUE=Байконыр
+    ID=5313 | VALUE=Балхаш
+    ID=5314 | VALUE=Булаево
+    ID=5315 | VALUE=Державинск
+    ID=5316 | VALUE=Ерейментау
+    ID=5317 | VALUE=Есик
+    ID=5318 | VALUE=Есиль
+    ID=5319 | VALUE=Жанаозен
+    ID=5320 | VALUE=Жанатас
+    ID=5321 | VALUE=Жаркент
+    ID=5322 | VALUE=Жезказган
+    ID=5323 | VALUE=Жем
+    ID=5324 | VALUE=Жетысай
+    ID=5325 | VALUE=Житикара
+    ID=5326 | VALUE=Зайсан
+    ID=5327 | VALUE=Казалинск
+    ID=5328 | VALUE=Кандыагаш
+    ID=5329 | VALUE=Караганды
+    ID=5330 | VALUE=Каражал
+    ID=5331 | VALUE=Каратау
+    ID=5332 | VALUE=Каркаралинск
+    ID=5333 | VALUE=Каскелен
+    ID=5334 | VALUE=Кентау
+    ID=5335 | VALUE=Китай
+    ... +51 more
+
+=== UF_CRM_1712655339 ===
+  title: UF_CRM_1712655339
+  type: string
+
+=== UF_CRM_1712655375 ===
+  title: UF_CRM_1712655375
+  type: file
+
+=== UF_CRM_1712655400 ===
+  title: UF_CRM_1712655400
+  type: file
+
+=== UF_CRM_1712655464 ===
+  title: UF_CRM_1712655464
+  type: string
+
+=== UF_CRM_1712655484 ===
+  title: UF_CRM_1712655484
+  type: date
+
+=== UF_CRM_1712655507 ===
+  title: UF_CRM_1712655507
+  type: money
+
+=== UF_CRM_1712655531 ===
+  title: UF_CRM_1712655531
+  type: file
+
+=== UF_CRM_1712655594 ===
+  title: UF_CRM_1712655594
+  type: file
+
+=== UF_CRM_1712655614 ===
+  title: UF_CRM_1712655614
+  type: file
+
+=== UF_CRM_1712655632 ===
+  title: UF_CRM_1712655632
+  type: file
+
+=== UF_CRM_1712655679 ===
+  title: UF_CRM_1712655679
+  type: file
+
+=== UF_CRM_1712655701 ===
+  title: UF_CRM_1712655701
+  type: file
+
+=== UF_CRM_1712655722 ===
+  title: UF_CRM_1712655722
+  type: file
+
+=== UF_CRM_1712655749 ===
+  title: UF_CRM_1712655749
+  type: file
+
+=== UF_CRM_1712655765 ===
+  title: UF_CRM_1712655765
+  type: file
+
+=== UF_CRM_1712655885 ===
+  title: UF_CRM_1712655885
+  type: enumeration
+  items (5):
+    ID=5387 | VALUE=Нет выездов
+    ID=5388 | VALUE=1 раз в месяц
+    ID=5389 | VALUE=1 раз в 2 месяца
+    ID=5390 | VALUE=1 раз в 3 месяца
+    ID=5391 | VALUE=1 раз в 6 месяцев
+
+=== UF_CRM_1712655898 ===
+  title: UF_CRM_1712655898
+  type: date
+
+=== UF_CRM_1712655933 ===
+  title: UF_CRM_1712655933
+  type: enumeration
+  items (3):
+    ID=5392 | VALUE=Нет отчётов
+    ID=5393 | VALUE=1 раз в месяц
+    ID=5394 | VALUE=1 раз в 3 месяца
+
+=== UF_CRM_1712655941 ===
+  title: UF_CRM_1712655941
+  type: date
+
+=== UF_CRM_1712655949 ===
+  title: UF_CRM_1712655949
+  type: date
+
+=== UF_CRM_1712656167 ===
+  title: UF_CRM_1712656167
+  type: iblock_element
+
+=== UF_CRM_1712656417 ===
+  title: UF_CRM_1712656417
+  type: datetime
+
+=== UF_CRM_1712656544 ===
+  title: UF_CRM_1712656544
+  type: enumeration
+  items (5):
+    ID=5395 | VALUE=Забрали конкуренты
+    ID=5396 | VALUE=Нет необходимости
+    ID=5397 | VALUE=Нет бюджета
+    ID=5398 | VALUE=Затягивают
+    ID=5399 | VALUE=Нет контактов
+
+=== UF_CRM_1712656623 ===
+  title: UF_CRM_1712656623
+  type: enumeration
+  items (5):
+    ID=5400 | VALUE=Нет необходимости (по закону не нужно устанавливать СОРМ)
+    ID=5401 | VALUE=Забрали конкуренты
+    ID=5402 | VALUE=Компания больше не оказывает услуги
+    ID=5403 | VALUE=Нет рабочих контактов
+    ID=5404 | VALUE=Дубль
+
+=== UF_CRM_1712905395 ===
+  title: UF_CRM_1712905395
+  type: enumeration
+  items (5):
+    ID=5519 | VALUE=Финансовая возможность
+    ID=5520 | VALUE=Осознание потребности
+    ID=5521 | VALUE=Доверие
+    ID=5522 | VALUE=ЛПР
+    ID=5523 | VALUE=Здесь и сейчас
+
+=== UF_CRM_1712905603 ===
+  title: UF_CRM_1712905603
+  type: double
+
+=== UF_CRM_1713249781 ===
+  title: UF_CRM_1713249781
+  type: datetime
+
+=== UF_CRM_1713330282 ===
+  title: UF_CRM_1713330282
+  type: enumeration
+  items (11):
+    ID=5642 | VALUE=НГК и ГМК
+    ID=5643 | VALUE=Перевозки
+    ID=5644 | VALUE=Телеком
+    ID=5645 | VALUE=Финансы
+    ID=5646 | VALUE=Энергетика
+    ID=5647 | VALUE=Почтовая деятельность
+    ID=5648 | VALUE=Госорган
+    ID=5649 | VALUE=Сельское хозяйство
+    ID=5650 | VALUE=Производство
+    ID=5660 | VALUE=Медицина
+    ID=5661 | VALUE=Водоснабжение
+
+=== UF_CRM_1716963585 ===
+  title: UF_CRM_1716963585
+  type: crm
+
+=== UF_CRM_1719837619 ===
+  title: UF_CRM_1719837619
+  type: employee
+
+=== UF_CRM_1719837666 ===
+  title: UF_CRM_1719837666
+  type: enumeration
+  items (2):
+    ID=5833 | VALUE=Партнерская сделка
+    ID=5834 | VALUE=Отдел продаж Alldata
+
+=== UF_CRM_1719838167 ===
+  title: UF_CRM_1719838167
+  type: date
+
+=== UF_CRM_1719838238 ===
+  title: UF_CRM_1719838238
+  type: enumeration
+  items (8):
+    ID=5835 | VALUE=Не дозвонились
+    ID=5836 | VALUE=Дозвонились до приемной
+    ID=5837 | VALUE=Ожидание финансирования
+    ID=5838 | VALUE=Ожидание ЛПР
+    ID=5839 | VALUE=Ожидание внутреннего тендера
+    ID=5840 | VALUE=Окончание договора конкурентов
+    ID=5841 | VALUE=Ожидание решения компании
+    ID=5842 | VALUE=Сезонность бизнеса
+
+=== UF_CRM_1719838298 ===
+  title: UF_CRM_1719838298
+  type: enumeration
+  items (10):
+    ID=5843 | VALUE=Нет рабочих контактов
+    ID=5844 | VALUE=Не выявлен ответственный
+    ID=5845 | VALUE=В принципе не нуждаются
+    ID=5846 | VALUE=Менеджер не дожал
+    ID=5847 | VALUE=Дублирующие
+    ID=5848 | VALUE=Нет необходимого функционала
+    ID=5849 | VALUE=Выбрали конкурентов
+    ID=5850 | VALUE=Срыв при подписании
+    ID=5851 | VALUE=Дорого
+    ID=5852 | VALUE=Причины не ясны
+
+=== UF_CRM_1719838563 ===
+  title: UF_CRM_1719838563
+  type: string
+
+=== UF_CRM_1719838570 ===
+  title: UF_CRM_1719838570
+  type: string
+
+=== UF_CRM_1719838611 ===
+  title: UF_CRM_1719838611
+  type: double
+
+=== UF_CRM_1719896951 ===
+  title: UF_CRM_1719896951
+  type: string
+
+=== UF_CRM_1719897050 ===
+  title: UF_CRM_1719897050
+  type: enumeration
+  items (2):
+    ID=5883 | VALUE=Доступ предоставлен
+    ID=5884 | VALUE=Доступ заблокирован
+
+=== UF_CRM_1720003106 ===
+  title: UF_CRM_1720003106
+  type: crm
+
+=== UF_CRM_1720595176 ===
+  title: UF_CRM_1720595176
+  type: employee
+
+=== UF_CRM_1720595632626 ===
+  title: UF_CRM_1720595632626
+  type: enumeration
+  items (2):
+    ID=5887 | VALUE=Да
+    ID=5888 | VALUE=Нет
+
+=== UF_CRM_1720595740157 ===
+  title: UF_CRM_1720595740157
+  type: string
+
+=== UF_CRM_1720595796166 ===
+  title: UF_CRM_1720595796166
+  type: string
+
+=== UF_CRM_1720595829500 ===
+  title: UF_CRM_1720595829500
+  type: file
+
+=== UF_CRM_1720602525007 ===
+  title: UF_CRM_1720602525007
+  type: string
+
+=== UF_CRM_1720677832 ===
+  title: UF_CRM_1720677832
+  type: string
+
+=== UF_CRM_1720788464 ===
+  title: UF_CRM_1720788464
+  type: enumeration
+  items (3):
+    ID=5891 | VALUE=Аккаунт пользователя
+    ID=5892 | VALUE=Токен ключ
+    ID=7490 | VALUE=Выгрузка
+
+=== UF_CRM_1721381718 ===
+  title: UF_CRM_1721381718
+  type: string
+
+=== UF_CRM_1721712374 ===
+  title: UF_CRM_1721712374
+  type: crm
+
+=== UF_CRM_1721728435 ===
+  title: UF_CRM_1721728435
+  type: iblock_element
+
+=== UF_CRM_1721728466 ===
+  title: UF_CRM_1721728466
+  type: iblock_element
+
+=== UF_CRM_1721728477 ===
+  title: UF_CRM_1721728477
+  type: string
+
+=== UF_CRM_1721820611 ===
+  title: UF_CRM_1721820611
+  type: employee
+
+=== UF_CRM_1721820703 ===
+  title: UF_CRM_1721820703
+  type: crm
+
+=== UF_CRM_1721820807 ===
+  title: UF_CRM_1721820807
+  type: iblock_element
+
+=== UF_CRM_1721820854 ===
+  title: UF_CRM_1721820854
+  type: file
+
+=== UF_CRM_1721820934 ===
+  title: UF_CRM_1721820934
+  type: employee
+
+=== UF_CRM_1721821142 ===
+  title: UF_CRM_1721821142
+  type: iblock_element
+
+=== UF_CRM_1721821168 ===
+  title: UF_CRM_1721821168
+  type: iblock_element
+
+=== UF_CRM_1721821480 ===
+  title: UF_CRM_1721821480
+  type: iblock_element
+
+=== UF_CRM_1721821500 ===
+  title: UF_CRM_1721821500
+  type: double
+
+=== UF_CRM_1721821510 ===
+  title: UF_CRM_1721821510
+  type: string
+
+=== UF_CRM_1721821542 ===
+  title: UF_CRM_1721821542
+  type: double
+
+=== UF_CRM_1721821582 ===
+  title: UF_CRM_1721821582
+  type: datetime
+
+=== UF_CRM_1721828219 ===
+  title: UF_CRM_1721828219
+  type: string
+
+=== UF_CRM_1721914588 ===
+  title: UF_CRM_1721914588
+  type: file
+
+=== UF_CRM_1722248478 ===
+  title: UF_CRM_1722248478
+  type: file
+
+=== UF_CRM_1722496233 ===
+  title: UF_CRM_1722496233
+  type: employee
+
+=== UF_CRM_1722496448 ===
+  title: UF_CRM_1722496448
+  type: enumeration
+
+=== UF_CRM_1722496569 ===
+  title: UF_CRM_1722496569
+  type: string
+
+=== UF_CRM_1722501012 ===
+  title: UF_CRM_1722501012
+  type: enumeration
+  items (11):
+    ID=5931 | VALUE=100% предоплата
+    ID=5932 | VALUE=Помесячно
+    ID=5933 | VALUE=Поквартально
+    ID=5934 | VALUE=По полгода
+    ID=5935 | VALUE=100% постоплата
+    ID=5936 | VALUE=30 / 70
+    ID=5937 | VALUE=40 / 60
+    ID=5938 | VALUE=50 / 50
+    ID=5939 | VALUE=60 / 40
+    ID=5940 | VALUE=70 / 30
+    ID=5941 | VALUE=Прочее
+
+=== UF_CRM_1722504781 ===
+  title: UF_CRM_1722504781
+  type: file
+
+=== UF_CRM_1722504855 ===
+  title: UF_CRM_1722504855
+  type: string
+
+=== UF_CRM_1722504912 ===
+  title: UF_CRM_1722504912
+  type: double
+
+=== UF_CRM_1722504925 ===
+  title: UF_CRM_1722504925
+  type: date
+
+=== UF_CRM_1722504937 ===
+  title: UF_CRM_1722504937
+  type: date
+
+=== UF_CRM_1722508789 ===
+  title: UF_CRM_1722508789
+  type: date
+
+=== UF_CRM_1722519481 ===
+  title: UF_CRM_1722519481
+  type: file
+
+=== UF_CRM_1722519499 ===
+  title: UF_CRM_1722519499
+  type: file
+
+=== UF_CRM_1722519514 ===
+  title: UF_CRM_1722519514
+  type: file
+
+=== UF_CRM_1722519621 ===
+  title: UF_CRM_1722519621
+  type: file
+
+=== UF_CRM_1722837975 ===
+  title: UF_CRM_1722837975
+  type: file
+
+=== UF_CRM_1722838069 ===
+  title: UF_CRM_1722838069
+  type: iblock_element
+
+=== UF_CRM_1722867358 ===
+  title: UF_CRM_1722867358
+  type: employee
+
+=== UF_CRM_1722953876 ===
+  title: UF_CRM_1722953876
+  type: file
+
+=== UF_CRM_1723466168710 ===
+  title: UF_CRM_1723466168710
+  type: double
+
+=== UF_CRM_1725884223 ===
+  title: UF_CRM_1725884223
+  type: file
+
+=== UF_CRM_1726132968526 ===
+  title: UF_CRM_1726132968526
+  type: string
+
+=== UF_CRM_1726133086662 ===
+  title: UF_CRM_1726133086662
+  type: double
+
+=== UF_CRM_1726150091 ===
+  title: UF_CRM_1726150091
+  type: employee
+
+=== UF_CRM_1726150191075 ===
+  title: UF_CRM_1726150191075
+  type: double
+
+=== UF_CRM_1726150223922 ===
+  title: UF_CRM_1726150223922
+  type: double
+
+=== UF_CRM_1726150250640 ===
+  title: UF_CRM_1726150250640
+  type: double
+
+=== UF_CRM_1726150284968 ===
+  title: UF_CRM_1726150284968
+  type: double
+
+=== UF_CRM_1726150308205 ===
+  title: UF_CRM_1726150308205
+  type: double
+
+=== UF_CRM_1726150363991 ===
+  title: UF_CRM_1726150363991
+  type: string
+
+=== UF_CRM_1726643225 ===
+  title: UF_CRM_1726643225
+  type: datetime
+
+=== UF_CRM_1726643258 ===
+  title: UF_CRM_1726643258
+  type: datetime
+
+=== UF_CRM_1728641720 ===
+  title: UF_CRM_1728641720
+  type: enumeration
+  items (4):
+    ID=6471 | VALUE=АФУ-проект
+    ID=6472 | VALUE=Рабочий проект
+    ID=6487 | VALUE=КМД
+    ID=7357 | VALUE=КМ
+
+=== UF_CRM_1728642400 ===
+  title: UF_CRM_1728642400
+  type: file
+
+=== UF_CRM_1728642442 ===
+  title: UF_CRM_1728642442
+  type: file
+
+=== UF_CRM_1728643157 ===
+  title: UF_CRM_1728643157
+  type: date
+
+=== UF_CRM_1728643207 ===
+  title: UF_CRM_1728643207
+  type: date
+
+=== UF_CRM_1728643717 ===
+  title: UF_CRM_1728643717
+  type: date
+
+=== UF_CRM_1728643797 ===
+  title: UF_CRM_1728643797
+  type: date
+
+=== UF_CRM_1728643943 ===
+  title: UF_CRM_1728643943
+  type: string
+
+=== UF_CRM_1728653780 ===
+  title: UF_CRM_1728653780
+  type: string
+
+=== UF_CRM_1728655636636 ===
+  title: UF_CRM_1728655636636
+  type: double
+
+=== UF_CRM_1728911930664 ===
+  title: UF_CRM_1728911930664
+  type: string
+
+=== UF_CRM_1730981351 ===
+  title: UF_CRM_1730981351
+  type: enumeration
+  items (6):
+    ID=6541 | VALUE=Повторная заявка
+    ID=6542 | VALUE=Не согласовано с отделом ПТО
+    ID=6543 | VALUE=Не согласован номер заказа
+    ID=6544 | VALUE=Неактуально
+    ID=6545 | VALUE=Сайт построен / закрыт
+    ID=6546 | VALUE=Прочее
+
+=== UF_CRM_1732111538 ===
+  title: UF_CRM_1732111538
+  type: address
+
+=== UF_CRM_1732798358738 ===
+  title: UF_CRM_1732798358738
+  type: double
+
+=== UF_CRM_1732863058267 ===
+  title: UF_CRM_1732863058267
+  type: datetime
+
+=== UF_CRM_1733205619 ===
+  title: UF_CRM_1733205619
+  type: file
+
+=== UF_CRM_1733494955 ===
+  title: UF_CRM_1733494955
+  type: enumeration
+  items (12):
+    ID=6586 | VALUE=0
+    ID=6587 | VALUE=10
+    ID=6588 | VALUE=20
+    ID=6796 | VALUE=25
+    ID=6589 | VALUE=30
+    ID=6590 | VALUE=40
+    ID=6591 | VALUE=50
+    ID=6592 | VALUE=60
+    ID=6593 | VALUE=70
+    ID=6594 | VALUE=80
+    ID=6595 | VALUE=90
+    ID=6596 | VALUE=100
+
+=== UF_CRM_1734089583529 ===
+  title: UF_CRM_1734089583529
+  type: money
+
+=== UF_CRM_1734418222215 ===
+  title: UF_CRM_1734418222215
+  type: double
+
+=== UF_CRM_1734616709 ===
+  title: UF_CRM_1734616709
+  type: crm
+
+=== UF_CRM_1735136173 ===
+  title: UF_CRM_1735136173
+  type: string
+
+=== UF_CRM_1736323632 ===
+  title: UF_CRM_1736323632
+  type: file
+
+=== UF_CRM_1736519656 ===
+  title: UF_CRM_1736519656
+  type: crm
+
+=== UF_CRM_1737100693 ===
+  title: UF_CRM_1737100693
+  type: string
+
+=== UF_CRM_1739539921 ===
+  title: UF_CRM_1739539921
+  type: employee
+
+=== UF_CRM_1743502490465 ===
+  title: UF_CRM_1743502490465
+  type: file
+
+=== UF_CRM_1743502641396 ===
+  title: UF_CRM_1743502641396
+  type: enumeration
+
+=== UF_CRM_1743773583 ===
+  title: UF_CRM_1743773583
+  type: string
+
+=== UF_CRM_1743774058 ===
+  title: UF_CRM_1743774058
+  type: string
+
+=== UF_CRM_1744023445 ===
+  title: UF_CRM_1744023445
+  type: double
+
+=== UF_CRM_1744896002 ===
+  title: UF_CRM_1744896002
+  type: iblock_element
+
+=== UF_CRM_1744896051 ===
+  title: UF_CRM_1744896051
+  type: iblock_element
+
+=== UF_CRM_1744896704 ===
+  title: UF_CRM_1744896704
+  type: enumeration
+  items (3):
+    ID=6842 | VALUE=ЦМК Телекоммуникации
+    ID=6843 | VALUE=ЦМК Внутренние
+    ID=6844 | VALUE=ЦМК Другие
+
+=== UF_CRM_1745475319042 ===
+  title: UF_CRM_1745475319042
+  type: string
+
+=== UF_CRM_1745475372851 ===
+  title: UF_CRM_1745475372851
+  type: string
+
+=== UF_CRM_1746166362947 ===
+  title: UF_CRM_1746166362947
+  type: double
+
+=== UF_CRM_1746430055845 ===
+  title: UF_CRM_1746430055845
+  type: file
+
+=== UF_CRM_1746430113951 ===
+  title: UF_CRM_1746430113951
+  type: double
+
+=== UF_CRM_1746430159402 ===
+  title: UF_CRM_1746430159402
+  type: enumeration
+
+=== UF_CRM_1746430236382 ===
+  title: UF_CRM_1746430236382
+  type: double
+
+=== UF_CRM_1746525501598 ===
+  title: UF_CRM_1746525501598
+  type: date
+
+=== UF_CRM_1746525533096 ===
+  title: UF_CRM_1746525533096
+  type: date
+
+=== UF_CRM_1746696611 ===
+  title: UF_CRM_1746696611
+  type: file
+
+=== UF_CRM_1747043933299 ===
+  title: UF_CRM_1747043933299
+  type: file
+
+=== UF_CRM_1747043988218 ===
+  title: UF_CRM_1747043988218
+  type: double
+
+=== UF_CRM_1747044046172 ===
+  title: UF_CRM_1747044046172
+  type: enumeration
+  items (4):
+    ID=6845 | VALUE=Стандартная оплата
+    ID=6846 | VALUE=Рассрочка
+    ID=6847 | VALUE=% от суммы договора ежемесячно
+    ID=6848 | VALUE=Аренда
+
+=== UF_CRM_1747044087623 ===
+  title: UF_CRM_1747044087623
+  type: double
+
+=== UF_CRM_1747056366283 ===
+  title: UF_CRM_1747056366283
+  type: date
+
+=== UF_CRM_1747056406877 ===
+  title: UF_CRM_1747056406877
+  type: date
+
+=== UF_CRM_1747119277936 ===
+  title: UF_CRM_1747119277936
+  type: double
+
+=== UF_CRM_1747120507183 ===
+  title: UF_CRM_1747120507183
+  type: double
+
+=== UF_CRM_1747135508053 ===
+  title: UF_CRM_1747135508053
+  type: double
+
+=== UF_CRM_1747205734503 ===
+  title: UF_CRM_1747205734503
+  type: double
+
+=== UF_CRM_1747209844227 ===
+  title: UF_CRM_1747209844227
+  type: datetime
+
+=== UF_CRM_1747209895 ===
+  title: UF_CRM_1747209895
+  type: employee
+
+=== UF_CRM_1747210029 ===
+  title: UF_CRM_1747210029
+  type: iblock_element
+
+=== UF_CRM_1747213696241 ===
+  title: UF_CRM_1747213696241
+  type: enumeration
+  items (21):
+    ID=8034 | VALUE=Абайская область
+    ID=8035 | VALUE=Акмолинская область
+    ID=8036 | VALUE=Актюбинская область
+    ID=8037 | VALUE=Алматинская область
+    ID=8038 | VALUE=Алматы
+    ID=8039 | VALUE=Астана
+    ID=8040 | VALUE=Атырауская область
+    ID=8041 | VALUE=Восточно-Казахстанская область
+    ID=8042 | VALUE=Жамбылская область
+    ID=8043 | VALUE=Жетысуская область
+    ID=8044 | VALUE=Западно-Казахстанская область
+    ID=8045 | VALUE=Карагандинская область
+    ID=8046 | VALUE=Костанайская область
+    ID=8047 | VALUE=Кызылординская область
+    ID=8048 | VALUE=Мангистауская область
+    ID=8049 | VALUE=Павлодарская область
+    ID=8050 | VALUE=Россия
+    ID=8051 | VALUE=Северо-Казахстанская область
+    ID=8052 | VALUE=Туркестанская область
+    ID=8053 | VALUE=Улытауская область
+    ID=8054 | VALUE=Шымкент
+
+=== UF_CRM_1747213778138 ===
+  title: UF_CRM_1747213778138
+  type: enumeration
+  items (3):
+    ID=6793 | VALUE=Перевозка
+    ID=6794 | VALUE=Спецтехника
+    ID=6795 | VALUE=Грузчики
+
+=== UF_CRM_1747213825552 ===
+  title: UF_CRM_1747213825552
+  type: datetime
+
+=== UF_CRM_1747213877516 ===
+  title: UF_CRM_1747213877516
+  type: file
+
+=== UF_CRM_1747288629 ===
+  title: UF_CRM_1747288629
+  type: string
+
+=== UF_CRM_1747291699 ===
+  title: UF_CRM_1747291699
+  type: employee
+
+=== UF_CRM_1747633240072 ===
+  title: UF_CRM_1747633240072
+  type: enumeration
+
+=== UF_CRM_1747633601911 ===
+  title: UF_CRM_1747633601911
+  type: enumeration
+
+=== UF_CRM_1747646213915 ===
+  title: UF_CRM_1747646213915
+  type: enumeration
+
+=== UF_CRM_1747736702 ===
+  title: UF_CRM_1747736702
+  type: file
+
+=== UF_CRM_1747805016301 ===
+  title: UF_CRM_1747805016301
+  type: boolean
+
+=== UF_CRM_1747898390148 ===
+  title: UF_CRM_1747898390148
+  type: string
+
+=== UF_CRM_1748339422927 ===
+  title: UF_CRM_1748339422927
+  type: file
+
+=== UF_CRM_1748425625505 ===
+  title: UF_CRM_1748425625505
+  type: string
+
+=== UF_CRM_1748434933067 ===
+  title: UF_CRM_1748434933067
+  type: string
+
+=== UF_CRM_1748871330215 ===
+  title: UF_CRM_1748871330215
+  type: enumeration
+  items (5):
+    ID=6615 | VALUE=Выиграли
+    ID=6611 | VALUE=Не верные размеры креплений /труб/трас
+    ID=6612 | VALUE=Неверные данные в шаблоне ( данные другого проекта)
+    ID=6613 | VALUE=Не указаны узлы крепления
+    ID=6614 | VALUE=Не отображена информация ( длинны/узлы/размеры)
+
+=== UF_CRM_1748958727 ===
+  title: UF_CRM_1748958727
+  type: crm
+
+=== UF_CRM_1749015464390 ===
+  title: UF_CRM_1749015464390
+  type: string
+
+=== UF_CRM_1749038925 ===
+  title: UF_CRM_1749038925
+  type: file
+
+=== UF_CRM_1749038945 ===
+  title: UF_CRM_1749038945
+  type: file
+
+=== UF_CRM_1749039012954 ===
+  title: UF_CRM_1749039012954
+  type: date
+
+=== UF_CRM_1749039050393 ===
+  title: UF_CRM_1749039050393
+  type: file
+
+=== UF_CRM_1749041868828 ===
+  title: UF_CRM_1749041868828
+  type: enumeration
+  items (7):
+    ID=6616 | VALUE=Satu.kz
+    ID=6617 | VALUE=Kaspi.kz
+    ID=6618 | VALUE=Рекомендаций
+    ID=6619 | VALUE=Поисковые системы (Яндекс, Google, 2Gis)
+    ID=6620 | VALUE=Холодные звонки
+    ID=6621 | VALUE=Теплые звонки
+    ID=6622 | VALUE=Тендер
+
+=== UF_CRM_1749042013565 ===
+  title: UF_CRM_1749042013565
+  type: enumeration
+  items (2):
+    ID=6787 | VALUE=EXW - Cамовывоз заказчиком
+    ID=6788 | VALUE=DDP - Доставка от поставщика
+
+=== UF_CRM_1749042138646 ===
+  title: UF_CRM_1749042138646
+  type: enumeration
+  items (7):
+    ID=6625 | VALUE=В наличии
+    ID=6626 | VALUE=3 рабочих дня
+    ID=6789 | VALUE=7 рабочих дней
+    ID=6628 | VALUE=14 рабочих дней
+    ID=6790 | VALUE=20 рабочих дней
+    ID=6791 | VALUE=30 рабочих дней
+    ID=6792 | VALUE=под заказ более 30 рабочих дней
+
+=== UF_CRM_1749109929438 ===
+  title: UF_CRM_1749109929438
+  type: file
+
+=== UF_CRM_1749109980763 ===
+  title: UF_CRM_1749109980763
+  type: date
+
+=== UF_CRM_1749115821139 ===
+  title: UF_CRM_1749115821139
+  type: file
+
+=== UF_CRM_1749447910584 ===
+  title: UF_CRM_1749447910584
+  type: enumeration
+  items (7):
+    ID=7314 | VALUE=Не прошли по ценам
+    ID=7315 | VALUE=Предложили аналог не подошёл
+    ID=7316 | VALUE=Не прошли по условиям оплаты
+    ID=7390 | VALUE=Возврат денег заказчику
+    ID=7391 | VALUE=Проект не состоялся
+    ID=7392 | VALUE=Нет обратной связи
+    ID=7393 | VALUE=Объединение сделки с другой
+
+=== UF_CRM_1749560403488 ===
+  title: UF_CRM_1749560403488
+  type: string
+
+=== UF_CRM_1749560422200 ===
+  title: UF_CRM_1749560422200
+  type: string
+
+=== UF_CRM_1749649562312 ===
+  title: UF_CRM_1749649562312
+  type: string
+
+=== UF_CRM_1749649597033 ===
+  title: UF_CRM_1749649597033
+  type: string
+
+=== UF_CRM_1749649644898 ===
+  title: UF_CRM_1749649644898
+  type: date
+
+=== UF_CRM_1749649687683 ===
+  title: UF_CRM_1749649687683
+  type: date
+
+=== UF_CRM_1750157254396 ===
+  title: UF_CRM_1750157254396
+  type: date
+
+=== UF_CRM_1750661643761 ===
+  title: UF_CRM_1750661643761
+  type: enumeration
+  items (2):
+    ID=6800 | VALUE=По заказу
+    ID=6801 | VALUE=По счету
+
+=== UF_CRM_1751373674 ===
+  title: UF_CRM_1751373674
+  type: iblock_element
+
+=== UF_CRM_1751519650835 ===
+  title: UF_CRM_1751519650835
+  type: file
+
+=== UF_CRM_1751952830276 ===
+  title: UF_CRM_1751952830276
+  type: file
+
+=== UF_CRM_1752554725307 ===
+  title: UF_CRM_1752554725307
+  type: string
+
+=== UF_CRM_1752558529942 ===
+  title: UF_CRM_1752558529942
+  type: url
+
+=== UF_CRM_1752662025 ===
+  title: UF_CRM_1752662025
+  type: crm
+
+=== UF_CRM_1752662048 ===
+  title: UF_CRM_1752662048
+  type: crm
+
+=== UF_CRM_1752662184542 ===
+  title: UF_CRM_1752662184542
+  type: enumeration
+  items (4):
+    ID=7284 | VALUE=Запрос на участие в тендере от Заказчика
+    ID=7285 | VALUE=Самостоятельный поиск Тендера
+    ID=7286 | VALUE=Тендер строительных компаний
+    ID=7287 | VALUE=Вне тендерная заявка
+
+=== UF_CRM_1752662266639 ===
+  title: UF_CRM_1752662266639
+  type: enumeration
+  items (3):
+    ID=7288 | VALUE=Поставка и работы
+    ID=7290 | VALUE=Работы
+    ID=7291 | VALUE=Поставка
+
+=== UF_CRM_1752662523080 ===
+  title: UF_CRM_1752662523080
+  type: enumeration
+  items (6):
+    ID=7292 | VALUE=Отдел системы безопасности (ОСБ)
+    ID=7293 | VALUE=Отдел информационных технологии (ОИТ)
+    ID=7294 | VALUE=Отдел корпоративных продаж (ОКП)
+    ID=7295 | VALUE=Отдел введения проектов (ОВП)
+    ID=7296 | VALUE=Адм.проекты
+    ID=8149 | VALUE=Цех металлоконструкций
+
+=== UF_CRM_1752662640459 ===
+  title: UF_CRM_1752662640459
+  type: file
+
+=== UF_CRM_1752663182 ===
+  title: UF_CRM_1752663182
+  type: employee
+
+=== UF_CRM_1752663365243 ===
+  title: UF_CRM_1752663365243
+  type: string
+
+=== UF_CRM_1752663410239 ===
+  title: UF_CRM_1752663410239
+  type: file
+
+=== UF_CRM_1752663539 ===
+  title: UF_CRM_1752663539
+  type: employee
+
+=== UF_CRM_1752663697687 ===
+  title: UF_CRM_1752663697687
+  type: file
+
+=== UF_CRM_1752663903771 ===
+  title: UF_CRM_1752663903771
+  type: enumeration
+  items (2):
+    ID=7297 | VALUE=Выполняем своими силами
+    ID=7298 | VALUE=Подрядчик
+
+=== UF_CRM_1752664048814 ===
+  title: UF_CRM_1752664048814
+  type: file
+
+=== UF_CRM_1752831403611 ===
+  title: UF_CRM_1752831403611
+  type: enumeration
+  items (3):
+    ID=7317 | VALUE=Проведет сотрудник компании
+    ID=7318 | VALUE=Проведет подрядчик
+    ID=7341 | VALUE=Не требуется
+
+=== UF_CRM_1752832033199 ===
+  title: UF_CRM_1752832033199
+  type: enumeration
+  items (2):
+    ID=8029 | VALUE=Да
+    ID=8030 | VALUE=Нет
+
+=== UF_CRM_1752832413 ===
+  title: UF_CRM_1752832413
+  type: iblock_element
+
+=== UF_CRM_1752832825 ===
+  title: UF_CRM_1752832825
+  type: crm
+
+=== UF_CRM_1752832942611 ===
+  title: UF_CRM_1752832942611
+  type: date
+
+=== UF_CRM_1752833979111 ===
+  title: UF_CRM_1752833979111
+  type: string
+
+=== UF_CRM_1753965577770 ===
+  title: UF_CRM_1753965577770
+  type: string
+
+=== UF_CRM_1753965660738 ===
+  title: UF_CRM_1753965660738
+  type: string
+
+=== UF_CRM_1754459726594 ===
+  title: UF_CRM_1754459726594
+  type: enumeration
+  items (4):
+    ID=7335 | VALUE=ЦМК
+    ID=7336 | VALUE=Снабжение
+    ID=7337 | VALUE=ЦМК + Снабжение
+    ID=7389 | VALUE=Подрядчик
+
+=== UF_CRM_1754462454 ===
+  title: UF_CRM_1754462454
+  type: employee
+
+=== UF_CRM_1754462507 ===
+  title: UF_CRM_1754462507
+  type: string
+
+=== UF_CRM_1754462560 ===
+  title: UF_CRM_1754462560
+  type: crm
+
+=== UF_CRM_1754905185286 ===
+  title: UF_CRM_1754905185286
+  type: enumeration
+  items (2):
+    ID=7370 | VALUE=Производство
+    ID=7371 | VALUE=Купи-продай
+
+=== UF_CRM_1754905306118 ===
+  title: UF_CRM_1754905306118
+  type: date
+
+=== UF_CRM_1754905351867 ===
+  title: UF_CRM_1754905351867
+  type: money
+
+=== UF_CRM_1754995536957 ===
+  title: UF_CRM_1754995536957
+  type: date
+
+=== UF_CRM_1755061491462 ===
+  title: UF_CRM_1755061491462
+  type: string
+
+=== UF_CRM_1755075478294 ===
+  title: UF_CRM_1755075478294
+  type: enumeration
+  items (8):
+    ID=7360 | VALUE=Не дозвонились
+    ID=7361 | VALUE=Дозвонились до приемной
+    ID=7362 | VALUE=Ожидание финансирования
+    ID=7363 | VALUE=Ожидание ЛПР
+    ID=7364 | VALUE=Ожидание внутреннего тендера
+    ID=7365 | VALUE=Окончание договора конкурентов
+    ID=7366 | VALUE=Ожидание решения компании
+    ID=7367 | VALUE=Сезонность бизнеса
+
+=== UF_CRM_1755076004261 ===
+  title: UF_CRM_1755076004261
+  type: string
+
+=== UF_CRM_1755176636122 ===
+  title: UF_CRM_1755176636122
+  type: date
+
+=== UF_CRM_1755241378 ===
+  title: UF_CRM_1755241378
+  type: file
+
+=== UF_CRM_1755267110 ===
+  title: UF_CRM_1755267110
+  type: crm
+
+=== UF_CRM_1755514565005 ===
+  title: UF_CRM_1755514565005
+  type: file
+
+=== UF_CRM_1755514636981 ===
+  title: UF_CRM_1755514636981
+  type: file
+
+=== UF_CRM_1755514936719 ===
+  title: UF_CRM_1755514936719
+  type: file
+
+=== UF_CRM_1755515217593 ===
+  title: UF_CRM_1755515217593
+  type: file
+
+=== UF_CRM_1755515440202 ===
+  title: UF_CRM_1755515440202
+  type: file
+
+=== UF_CRM_1755588003954 ===
+  title: UF_CRM_1755588003954
+  type: double
+
+=== UF_CRM_1755596353 ===
+  title: UF_CRM_1755596353
+  type: date
+
+=== UF_CRM_1755611612 ===
+  title: UF_CRM_1755611612
+  type: string
+
+=== UF_CRM_1755671185 ===
+  title: UF_CRM_1755671185
+  type: date
+
+=== UF_CRM_1755844579 ===
+  title: UF_CRM_1755844579
+  type: iblock_element
+
+=== UF_CRM_1755863069225 ===
+  title: UF_CRM_1755863069225
+  type: date
+
+=== UF_CRM_1756098635105 ===
+  title: UF_CRM_1756098635105
+  type: enumeration
+  items (2):
+    ID=7358 | VALUE=По своим шаблонам
+    ID=7359 | VALUE=Юридический отдел
+
+=== UF_CRM_1756291374 ===
+  title: UF_CRM_1756291374
+  type: file
+
+=== UF_CRM_1756291386 ===
+  title: UF_CRM_1756291386
+  type: file
+
+=== UF_CRM_1756291400 ===
+  title: UF_CRM_1756291400
+  type: file
+
+=== UF_CRM_1756291428 ===
+  title: UF_CRM_1756291428
+  type: file
+
+=== UF_CRM_1756291460 ===
+  title: UF_CRM_1756291460
+  type: file
+
+=== UF_CRM_1756291500 ===
+  title: UF_CRM_1756291500
+  type: file
+
+=== UF_CRM_1756291521 ===
+  title: UF_CRM_1756291521
+  type: file
+
+=== UF_CRM_1756766787095 ===
+  title: UF_CRM_1756766787095
+  type: file
+
+=== UF_CRM_1757058733560 ===
+  title: UF_CRM_1757058733560
+  type: file
+
+=== UF_CRM_1757059335202 ===
+  title: UF_CRM_1757059335202
+  type: file
+
+=== UF_CRM_1757076796186 ===
+  title: UF_CRM_1757076796186
+  type: file
+
+=== UF_CRM_1757308888620 ===
+  title: UF_CRM_1757308888620
+  type: file
+
+=== UF_CRM_1757308928508 ===
+  title: UF_CRM_1757308928508
+  type: file
+
+=== UF_CRM_1757396502 ===
+  title: UF_CRM_1757396502
+  type: double
+
+=== UF_CRM_1757396584 ===
+  title: UF_CRM_1757396584
+  type: double
+
+=== UF_CRM_1758102005981 ===
+  title: UF_CRM_1758102005981
+  type: file
+
+=== UF_CRM_1758536283325 ===
+  title: UF_CRM_1758536283325
+  type: boolean
+
+=== UF_CRM_1758794127218 ===
+  title: UF_CRM_1758794127218
+  type: string
+
+=== UF_CRM_1759819359745 ===
+  title: UF_CRM_1759819359745
+  type: enumeration
+  items (3):
+    ID=8060 | VALUE=Согласно накладной от заказчика
+    ID=8061 | VALUE=Частичный забор
+    ID=8062 | VALUE=Перенос на другой сайт
+
+=== UF_CRM_1759819837684 ===
+  title: UF_CRM_1759819837684
+  type: string
+
+=== UF_CRM_1759819868045 ===
+  title: UF_CRM_1759819868045
+  type: string
+
+=== UF_CRM_1759906021221 ===
+  title: UF_CRM_1759906021221
+  type: string
+
+=== UF_CRM_1759906171744 ===
+  title: UF_CRM_1759906171744
+  type: string
+
+=== UF_CRM_1761221407151 ===
+  title: UF_CRM_1761221407151
+  type: file
+
+=== UF_CRM_1761221488565 ===
+  title: UF_CRM_1761221488565
+  type: enumeration
+  items (2):
+    ID=8055 | VALUE=Самовывоз
+    ID=8056 | VALUE=Силами исполнителя
+
+=== UF_CRM_1761221968757 ===
+  title: UF_CRM_1761221968757
+  type: enumeration
+  items (3):
+    ID=8031 | VALUE=На объект
+    ID=8032 | VALUE=На склад компании
+    ID=8033 | VALUE=Конечному заказчику
+
+=== UF_CRM_1761222082 ===
+  title: UF_CRM_1761222082
+  type: iblock_element
+
+=== UF_CRM_1761629097265 ===
+  title: UF_CRM_1761629097265
+  type: enumeration
+  items (3):
+    ID=7399 | VALUE=Согласно накладной от заказчика
+    ID=7400 | VALUE=Частичный забор
+    ID=7401 | VALUE=Перенос на другой сайт
+
+=== UF_CRM_1761629227812 ===
+  title: UF_CRM_1761629227812
+  type: string
+
+=== UF_CRM_1761629256548 ===
+  title: UF_CRM_1761629256548
+  type: string
+
+=== UF_CRM_1761630975644 ===
+  title: UF_CRM_1761630975644
+  type: string
+
+=== UF_CRM_1761634508 ===
+  title: UF_CRM_1761634508
+  type: iblock_element
+
+=== UF_CRM_1761634981 ===
+  title: UF_CRM_1761634981
+  type: employee
+
+=== UF_CRM_1761643215004 ===
+  title: UF_CRM_1761643215004
+  type: date
+
+=== UF_CRM_1761646229793 ===
+  title: UF_CRM_1761646229793
+  type: string
+
+=== UF_CRM_1761736812715 ===
+  title: UF_CRM_1761736812715
+  type: date
+
+=== UF_CRM_1761743387878 ===
+  title: UF_CRM_1761743387878
+  type: file
+
+=== UF_CRM_1761803104459 ===
+  title: UF_CRM_1761803104459
+  type: string
+
+=== UF_CRM_1761803144748 ===
+  title: UF_CRM_1761803144748
+  type: file
+
+=== UF_CRM_1761804580887 ===
+  title: UF_CRM_1761804580887
+  type: file
+
+=== UF_CRM_1761806538582 ===
+  title: UF_CRM_1761806538582
+  type: date
+
+=== UF_CRM_1761806582927 ===
+  title: UF_CRM_1761806582927
+  type: date
+
+=== UF_CRM_1761815194708 ===
+  title: UF_CRM_1761815194708
+  type: file
+
+=== UF_CRM_1761820928 ===
+  title: UF_CRM_1761820928
+  type: enumeration
+  items (2):
+    ID=7406 | VALUE=Разовый
+    ID=7407 | VALUE=Ежемесячно
+
+=== UF_CRM_1762149276463 ===
+  title: UF_CRM_1762149276463
+  type: file
+
+=== UF_CRM_1762409410483 ===
+  title: UF_CRM_1762409410483
+  type: file
+
+=== UF_CRM_1762780595925 ===
+  title: UF_CRM_1762780595925
+  type: file
+
+=== UF_CRM_1762861280726 ===
+  title: UF_CRM_1762861280726
+  type: file
+
+=== UF_CRM_1762861308584 ===
+  title: UF_CRM_1762861308584
+  type: file
+
+=== UF_CRM_1762861343240 ===
+  title: UF_CRM_1762861343240
+  type: enumeration
+  items (2):
+    ID=7439 | VALUE=Самовывоз
+    ID=7440 | VALUE=Силами исполнителя
+
+=== UF_CRM_1762861386290 ===
+  title: UF_CRM_1762861386290
+  type: enumeration
+  items (3):
+    ID=7441 | VALUE=На объект
+    ID=7442 | VALUE=На склад компании
+    ID=7443 | VALUE=Конечному заказчику
+
+=== UF_CRM_1762861520 ===
+  title: UF_CRM_1762861520
+  type: iblock_element
+
+=== UF_CRM_1762861653744 ===
+  title: UF_CRM_1762861653744
+  type: date
+
+=== UF_CRM_1762861667177 ===
+  title: UF_CRM_1762861667177
+  type: date
+
+=== UF_CRM_1763624574 ===
+  title: UF_CRM_1763624574
+  type: enumeration
+  items (2):
+    ID=8063 | VALUE=Наличный
+    ID=8064 | VALUE=Безналичный
+
+=== UF_CRM_1763993672424 ===
+  title: UF_CRM_1763993672424
+  type: double
+
+=== UF_CRM_1764313823 ===
+  title: UF_CRM_1764313823
+  type: string
+
+=== UF_CRM_1764912681 ===
+  title: UF_CRM_1764912681
+  type: crm
+
+=== UF_CRM_1765373368231 ===
+  title: UF_CRM_1765373368231
+  type: file
+
+=== UF_CRM_1765539308475 ===
+  title: UF_CRM_1765539308475
+  type: file
+
+=== UF_CRM_1765875396886 ===
+  title: UF_CRM_1765875396886
+  type: enumeration
+  items (2):
+    ID=7491 | VALUE=Наличный
+    ID=7492 | VALUE=Безналичный
+
+=== UF_CRM_1766416206142 ===
+  title: UF_CRM_1766416206142
+  type: string
+
+=== UF_CRM_1768977461 ===
+  title: UF_CRM_1768977461
+  type: crm
+
+=== UF_CRM_1775220067844 ===
+  title: UF_CRM_1775220067844
+  type: enumeration
+  items (2):
+    ID=8102 | VALUE=Административный
+    ID=8103 | VALUE=Проектный
+
+=== UF_CRM_1775741479135 ===
+  title: UF_CRM_1775741479135
+  type: string
+
+=== UF_CRM_1775821577334 ===
+  title: UF_CRM_1775821577334
+  type: file
+
+=== UF_CRM_1776144086668 ===
+  title: UF_CRM_1776144086668
+  type: date
+
+=== UF_CRM_1776144193626 ===
+  title: UF_CRM_1776144193626
+  type: string
+
+=== UF_CRM_1776144992737 ===
+  title: UF_CRM_1776144992737
+  type: string
+
+=== UF_CRM_1776145294914 ===
+  title: UF_CRM_1776145294914
+  type: enumeration
+  items (4):
+    ID=8124 | VALUE=СОРМ 1
+    ID=8125 | VALUE=СОРМ 2
+    ID=8126 | VALUE=Купи-Продай
+    ID=8127 | VALUE=Тех. поддержка
+
+=== UF_CRM_1776145770406 ===
+  title: UF_CRM_1776145770406
+  type: date
+
+=== UF_CRM_1776409922842 ===
+  title: UF_CRM_1776409922842
+  type: date
+
+=== UF_CRM_1776410250 ===
+  title: UF_CRM_1776410250
+  type: iblock_element
+
+=== UF_CRM_1776410544520 ===
+  title: UF_CRM_1776410544520
+  type: file
+
+=== UF_CRM_1776410734959 ===
+  title: UF_CRM_1776410734959
+  type: enumeration
+  items (2):
+    ID=8132 | VALUE=Да
+    ID=8133 | VALUE=Нет
+
+=== UF_CRM_1776410852185 ===
+  title: UF_CRM_1776410852185
+  type: enumeration
+  items (2):
+    ID=8134 | VALUE=Да
+    ID=8135 | VALUE=Нет
+
+=== UF_CRM_1777541207629 ===
+  title: UF_CRM_1777541207629
+  type: file
+
+=== UF_CRM_1778563768958 ===
+  title: UF_CRM_1778563768958
+  type: file
+
+=== UF_CRM_1778584578245 ===
+  title: UF_CRM_1778584578245
+  type: file
+
+=== UF_CRM_1778584642482 ===
+  title: UF_CRM_1778584642482
+  type: file
+
+=== UF_CRM_1780326044 ===
+  title: UF_CRM_1780326044
+  type: resourcebooking
+
+=== UF_CRM_1781083217939 ===
+  title: UF_CRM_1781083217939
+  type: enumeration
+  items (2):
+    ID=8145 | VALUE=Да
+    ID=8146 | VALUE=Нет
+
+=== UF_CRM_1781085927590 ===
+  title: UF_CRM_1781085927590
+  type: file
+
+=== UF_CRM_1781085937532 ===
+  title: UF_CRM_1781085937532
+  type: file
+
+=== UF_CRM_1782368775994 ===
+  title: UF_CRM_1782368775994
+  type: file
+
+=== UF_CRM_1782370849316 ===
+  title: UF_CRM_1782370849316
+  type: file
+
+=== UF_CRM_1782398428946 ===
+  title: UF_CRM_1782398428946
+  type: date
+
+=== UF_CRM_1782398774783 ===
+  title: UF_CRM_1782398774783
+  type: date
+
+=== UF_CRM_1782724434177 ===
+  title: UF_CRM_1782724434177
+  type: datetime
+
+=== UF_CRM_1782725361791 ===
+  title: UF_CRM_1782725361791
+  type: enumeration
+  items (7):
+    ID=8150 | VALUE=Почта
+    ID=8151 | VALUE=Телефония
+    ID=8152 | VALUE=Холодный звонок
+    ID=8153 | VALUE=Прочие проекты
+    ID=8172 | VALUE=Текущий контрагент/продление
+    ID=8173 | VALUE=Переданные проекты
+    ID=8174 | VALUE=Увеличение текущего объема
+
+=== UF_CRM_1782725460673 ===
+  title: UF_CRM_1782725460673
+  type: enumeration
+  items (3):
+    ID=8154 | VALUE=Гос
+    ID=8155 | VALUE=Квази гос
+    ID=8156 | VALUE=Частный сектор
+
+=== UF_CRM_1782725565608 ===
+  title: UF_CRM_1782725565608
+  type: enumeration
+  items (2):
+    ID=8157 | VALUE=Старый процесс
+    ID=8158 | VALUE=Новый процесс
+
+=== UF_CRM_1782725646548 ===
+  title: UF_CRM_1782725646548
+  type: enumeration
+  items (2):
+    ID=8159 | VALUE=Онлайн
+    ID=8160 | VALUE=Оффлайн
+
+=== UF_CRM_1782970980429 ===
+  title: UF_CRM_1782970980429
+  type: string
+
+=== UF_CRM_1783070234649 ===
+  title: UF_CRM_1783070234649
+  type: enumeration
+  items (2):
+    ID=8176 | VALUE=Да
+    ID=8177 | VALUE=Нет
+
+=== UF_CRM_1785222223 ===
+  title: UF_CRM_1785222223
+  type: employee
+
+=== UF_CRM_1786441100795 ===
+  title: UF_CRM_1786441100795
+  type: enumeration
+  items (2):
+    ID=8181 | VALUE=СОРМ телефония
+    ID=8182 | VALUE=СОРМ передача данных
+
+=== UF_CRM_1786441457258 ===
+  title: UF_CRM_1786441457258
+  type: string
+
+=== UF_CRM_1786441646610 ===
+  title: UF_CRM_1786441646610
+  type: enumeration
+  items (9):
+    ID=8183 | VALUE=Ошибка ПО
+    ID=8184 | VALUE=Консультация
+    ID=8185 | VALUE=Настройка
+    ID=8186 | VALUE=Инцидент
+    ID=8187 | VALUE=Обновление
+    ID=8188 | VALUE=Производительность
+    ID=8189 | VALUE=Лицензия
+    ID=8190 | VALUE=Доработка
+    ID=8191 | VALUE=Другое
+
+=== UF_CRM_1786441924404 ===
+  title: UF_CRM_1786441924404
+  type: enumeration
+  items (13):
+    ID=8192 | VALUE=FastDPI
+    ID=8193 | VALUE=ActiveMQ
+    ID=8194 | VALUE=PostgreSQL
+    ID=8195 | VALUE=Oracle
+    ID=8196 | VALUE=Docker
+    ID=8197 | VALUE=ETL
+    ID=8198 | VALUE=S2Conn
+    ID=8199 | VALUE=Web
+    ID=8200 | VALUE=Agent
+    ID=8201 | VALUE=Middleware
+    ID=8202 | VALUE=Пульт
+    ID=8203 | VALUE=Съемник
+    ID=8204 | VALUE=Хранилище
+
+=== UF_CRM_1786442067770 ===
+  title: UF_CRM_1786442067770
+  type: enumeration
+  items (4):
+    ID=8205 | VALUE=Критический
+    ID=8206 | VALUE=Высокий
+    ID=8207 | VALUE=Средний
+    ID=8208 | VALUE=Низкий
+
+=== UF_CRM_1786442208517 ===
+  title: UF_CRM_1786442208517
+  type: enumeration
+  items (6):
+    ID=8209 | VALUE=Тип оборудования
+    ID=8210 | VALUE=Версия ОС
+    ID=8211 | VALUE=База данных
+    ID=8212 | VALUE=Middleware
+    ID=8213 | VALUE=Регион
+    ID=8214 | VALUE=Оператор связи
+
+=== UF_CRM_1786443731384 ===
+  title: UF_CRM_1786443731384
+  type: date
+
+=== UF_CRM_1786444101393 ===
+  title: UF_CRM_1786444101393
+  type: enumeration
+  items (2):
+    ID=8215 | VALUE=Штатный
+    ID=8216 | VALUE=Внештатный
+
+=== UF_CRM_1786444618746 ===
+  title: UF_CRM_1786444618746
+  type: enumeration
+  items (3):
+    ID=8217 | VALUE=ошибочное обращение
+    ID=8218 | VALUE=дубль
+    ID=8219 | VALUE=отказ клиента
+
+=== UF_CRM_3831841577148 ===
+  title: UF_CRM_3831841577148
+  type: string
+
+=== UF_CRM_3833041817364 ===
+  title: UF_CRM_3833041817364
+  type: enumeration
+
+=== UF_CRM_3833041817727 ===
+  title: UF_CRM_3833041817727
+  type: enumeration
+
+=== UF_CRM_3833041817742 ===
+  title: UF_CRM_3833041817742
+  type: boolean
+
+=== UF_CRM_3833041817752 ===
+  title: UF_CRM_3833041817752
+  type: enumeration
+
+=== UF_CRM_3834411152564 ===
+  title: UF_CRM_3834411152564
+  type: string
+
+=== UF_CRM_3834411152575 ===
+  title: UF_CRM_3834411152575
+  type: string
+
+=== UF_CRM_3834411152585 ===
+  title: UF_CRM_3834411152585
+  type: datetime
+
+=== UF_CRM_3834411152636 ===
+  title: UF_CRM_3834411152636
+  type: employee
+
+=== UF_CRM_607663948CBC1 ===
+  title: UF_CRM_607663948CBC1
+  type: double
+
+=== UF_CRM_60766394A9585 ===
+  title: UF_CRM_60766394A9585
+  type: string
+
+=== UF_CRM_676F8D8EB9CC2 ===
+  title: UF_CRM_676F8D8EB9CC2
+  type: string
+
+=== UF_CRM_676F8D96C8EA1 ===
+  title: UF_CRM_676F8D96C8EA1
+  type: string
+
+=== UF_CRM_676F8D9F0323F ===
+  title: UF_CRM_676F8D9F0323F
+  type: string
+
+=== UF_CRM_676F8DA6EDAEC ===
+  title: UF_CRM_676F8DA6EDAEC
+  type: string
+
+=== UF_CRM_676F8DAD2FC12 ===
+  title: UF_CRM_676F8DAD2FC12
+  type: string
+
+=== UF_CRM_69179DE135ABD ===
+  title: UF_CRM_69179DE135ABD
+  type: string
+
+=== UF_CRM_ADDRESS ===
+  title: UF_CRM_ADDRESS
+  type: string
+
+=== UF_CRM_ADDRESS_2 ===
+  title: UF_CRM_ADDRESS_2
+  type: string
+
+=== UF_CRM_ADDRESS_CITY ===
+  title: UF_CRM_ADDRESS_CITY
+  type: string
+
+=== UF_CRM_ADDRESS_COUNTRY ===
+  title: UF_CRM_ADDRESS_COUNTRY
+  type: string
+
+=== UF_CRM_ADDRESS_POSTAL_CODE ===
+  title: UF_CRM_ADDRESS_POSTAL_CODE
+  type: string
+
+=== UF_CRM_ADDRESS_PROVINCE ===
+  title: UF_CRM_ADDRESS_PROVINCE
+  type: string
+
+=== UF_CRM_ADDRESS_REGION ===
+  title: UF_CRM_ADDRESS_REGION
+  type: string
+
+=== UF_CRM_A_T_GROUP_ID ===
+  title: UF_CRM_A_T_GROUP_ID
+  type: string
+
+=== UF_CRM_A_W_GROUP_ID ===
+  title: UF_CRM_A_W_GROUP_ID
+  type: string
+
+=== UF_CRM_BIRTHDATE ===
+  title: UF_CRM_BIRTHDATE
+  type: datetime
+
+=== UF_CRM_CAR_CIT ===
+  title: UF_CRM_CAR_CIT
+  type: boolean
+
+=== UF_CRM_COMPANY_TITLE ===
+  title: UF_CRM_COMPANY_TITLE
+  type: string
+
+=== UF_CRM_DATE_LAST_WORK_DELIVERY ===
+  title: UF_CRM_DATE_LAST_WORK_DELIVERY
+  type: string
+
+=== UF_CRM_DEAL_AMOID ===
+  title: UF_CRM_DEAL_AMOID
+  type: integer
+
+=== UF_CRM_EMAIL_HOME ===
+  title: UF_CRM_EMAIL_HOME
+  type: string
+
+=== UF_CRM_EMAIL_MAILING ===
+  title: UF_CRM_EMAIL_MAILING
+  type: string
+
+=== UF_CRM_EMAIL_OTHER ===
+  title: UF_CRM_EMAIL_OTHER
+  type: string
+
+=== UF_CRM_EMAIL_WORK ===
+  title: UF_CRM_EMAIL_WORK
+  type: string
+
+=== UF_CRM_FULL_ADDRESS ===
+  title: UF_CRM_FULL_ADDRESS
+  type: string
+
+=== UF_CRM_HOLDING ===
+  title: UF_CRM_HOLDING
+  type: boolean
+
+=== UF_CRM_HONORIFIC ===
+  title: UF_CRM_HONORIFIC
+  type: enumeration
+  items (2):
+    ID=4084 | VALUE=г-н
+    ID=4085 | VALUE=г-жа
+
+=== UF_CRM_IM_BITRIX24 ===
+  title: UF_CRM_IM_BITRIX24
+  type: string
+
+=== UF_CRM_IM_FACEBOOK ===
+  title: UF_CRM_IM_FACEBOOK
+  type: string
+
+=== UF_CRM_IM_IMOL ===
+  title: UF_CRM_IM_IMOL
+  type: string
+
+=== UF_CRM_IM_INSTAGRAM ===
+  title: UF_CRM_IM_INSTAGRAM
+  type: string
+
+=== UF_CRM_IM_JABBER ===
+  title: UF_CRM_IM_JABBER
+  type: string
+
+=== UF_CRM_IM_MSN ===
+  title: UF_CRM_IM_MSN
+  type: string
+
+=== UF_CRM_IM_OPENLINE ===
+  title: UF_CRM_IM_OPENLINE
+  type: string
+
+=== UF_CRM_IM_OTHER ===
+  title: UF_CRM_IM_OTHER
+  type: string
+
+=== UF_CRM_IM_SKYPE ===
+  title: UF_CRM_IM_SKYPE
+  type: string
+
+=== UF_CRM_IM_TELEGRAM ===
+  title: UF_CRM_IM_TELEGRAM
+  type: string
+
+=== UF_CRM_IM_VIBER ===
+  title: UF_CRM_IM_VIBER
+  type: string
+
+=== UF_CRM_IM_VK ===
+  title: UF_CRM_IM_VK
+  type: string
+
+=== UF_CRM_LAST_NAME ===
+  title: UF_CRM_LAST_NAME
+  type: string
+
+=== UF_CRM_LINK_USER ===
+  title: UF_CRM_LINK_USER
+  type: string
+
+=== UF_CRM_NAME ===
+  title: UF_CRM_NAME
+  type: string
+
+=== UF_CRM_NEW_AKK ===
+  title: UF_CRM_NEW_AKK
+  type: string
+
+=== UF_CRM_PHONE_FAX ===
+  title: UF_CRM_PHONE_FAX
+  type: string
+
+=== UF_CRM_PHONE_HOME ===
+  title: UF_CRM_PHONE_HOME
+  type: string
+
+=== UF_CRM_PHONE_MAILING ===
+  title: UF_CRM_PHONE_MAILING
+  type: string
+
+=== UF_CRM_PHONE_MOBILE ===
+  title: UF_CRM_PHONE_MOBILE
+  type: string
+
+=== UF_CRM_PHONE_OTHER ===
+  title: UF_CRM_PHONE_OTHER
+  type: string
+
+=== UF_CRM_PHONE_PAGER ===
+  title: UF_CRM_PHONE_PAGER
+  type: string
+
+=== UF_CRM_PHONE_WORK ===
+  title: UF_CRM_PHONE_WORK
+  type: string
+
+=== UF_CRM_POST ===
+  title: UF_CRM_POST
+  type: string
+
+=== UF_CRM_SCHET ===
+  title: UF_CRM_SCHET
+  type: file
+
+=== UF_CRM_SECOND_NAME ===
+  title: UF_CRM_SECOND_NAME
+  type: string
+
+=== UF_CRM_SORT_COMPANY ===
+  title: UF_CRM_SORT_COMPANY
+  type: string
+
+=== UF_CRM_STATE_SOGL_LOG ===
+  title: UF_CRM_STATE_SOGL_LOG
+  type: enumeration
+  items (3):
+    ID=8057 | VALUE=Согласовать
+    ID=8058 | VALUE=Отклонить
+    ID=8059 | VALUE=Доработка
+
+=== UF_CRM_STATUS ===
+  title: UF_CRM_STATUS
+  type: enumeration
+  items (2):
+    ID=7368 | VALUE=В работе
+    ID=7369 | VALUE=Завершено
+
+=== UF_CRM_STATUS_DESCRIPTION ===
+  title: UF_CRM_STATUS_DESCRIPTION
+  type: string
+
+=== UF_CRM_STATUS_ID ===
+  title: UF_CRM_STATUS_ID
+  type: enumeration
+  items (4):
+    ID=4115 | VALUE=Не обработан
+    ID=4116 | VALUE=В работе
+    ID=4117 | VALUE=Качественный лид
+    ID=4118 | VALUE=Некачественный лид
+
+=== UF_CRM_TOVARY ===
+  title: UF_CRM_TOVARY
+  type: string
+
+=== UF_CRM_TOVARY1 ===
+  title: UF_CRM_TOVARY1
+  type: string
+
+=== UF_CRM_TOVARY2 ===
+  title: UF_CRM_TOVARY2
+  type: double
+
+=== UF_CRM_UF_CLOSE_SYNC_ONEC ===
+  title: UF_CRM_UF_CLOSE_SYNC_ONEC
+  type: boolean
+
+=== UF_CRM_UNIKAL_ID_COMPANY ===
+  title: UF_CRM_UNIKAL_ID_COMPANY
+  type: double
+
+=== UF_CRM_VOSSTANOVLENIE_SKD ===
+  title: UF_CRM_VOSSTANOVLENIE_SKD
+  type: file
+
+=== UF_CRM_WEBFORM_PARTICIPATION_FORMAT ===
+  title: UF_CRM_WEBFORM_PARTICIPATION_FORMAT
+  type: enumeration
+  items (3):
+    ID=6553 | VALUE=Онлайн
+    ID=6554 | VALUE=Вживую
+    ID=6555 | VALUE=Буду смотреть в записи
+
+=== UF_CRM_WEB_FACEBOOK ===
+  title: UF_CRM_WEB_FACEBOOK
+  type: string
+
+=== UF_CRM_WEB_HOME ===
+  title: UF_CRM_WEB_HOME
+  type: string
+
+=== UF_CRM_WEB_LIVEJOURNAL ===
+  title: UF_CRM_WEB_LIVEJOURNAL
+  type: string
+
+=== UF_CRM_WEB_OTHER ===
+  title: UF_CRM_WEB_OTHER
+  type: string
+
+=== UF_CRM_WEB_VK ===
+  title: UF_CRM_WEB_VK
+  type: string
+
+=== UF_CRM_WEB_WORK ===
+  title: UF_CRM_WEB_WORK
+  type: string
+
+=== UF_ONEC_GUID ===
+  title: UF_ONEC_GUID
+  type: string

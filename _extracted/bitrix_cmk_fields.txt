@@ -1,0 +1,3087 @@
+
+===== UF_CRM_1733494955 =====
+  filterLabel: Размер предоплаты в %
+  formLabel: Размер предоплаты в %
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '6586', 'VALUE': '0'}
+    {'ID': '6587', 'VALUE': '10'}
+    {'ID': '6588', 'VALUE': '20'}
+    {'ID': '6796', 'VALUE': '25'}
+    {'ID': '6589', 'VALUE': '30'}
+    {'ID': '6590', 'VALUE': '40'}
+    {'ID': '6591', 'VALUE': '50'}
+    {'ID': '6592', 'VALUE': '60'}
+    {'ID': '6593', 'VALUE': '70'}
+    {'ID': '6594', 'VALUE': '80'}
+    {'ID': '6595', 'VALUE': '90'}
+    {'ID': '6596', 'VALUE': '100'}
+  listLabel: Размер предоплаты в %
+  settings: {"DISPLAY": "DIALOG", "LIST_HEIGHT": 5, "CAPTION_NO_VALUE": "Размер предоплаты в %", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1733494955
+  type: enumeration
+
+===== UF_CRM_1744896704 =====
+  filterLabel: Направление деятельности исполнителя ЦМК
+  formLabel: Направление деятельности исполнителя ЦМК
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '6842', 'VALUE': 'ЦМК Телекоммуникации'}
+    {'ID': '6843', 'VALUE': 'ЦМК Внутренние'}
+    {'ID': '6844', 'VALUE': 'ЦМК Другие'}
+  listLabel: Направление деятельности исполнителя ЦМК
+  settings: {"DISPLAY": "DIALOG", "LIST_HEIGHT": 5, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1744896704
+  type: enumeration
+
+===== UF_CRM_1761221968757 =====
+  filterLabel: Пункт доставки
+  formLabel: Пункт доставки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '8031', 'VALUE': 'На объект'}
+    {'ID': '8032', 'VALUE': 'На склад компании'}
+    {'ID': '8033', 'VALUE': 'Конечному заказчику'}
+  listLabel: Пункт доставки
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1761221968757
+  type: enumeration
+
+===== UF_CRM_1761222082 =====
+  filterLabel: Склад
+  formLabel: Склад
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Склад
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "IBLOCK_ID": "", "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1761222082
+  type: iblock_element
+
+===== UF_CRM_1762861520 =====
+  filterLabel: Склад
+  formLabel: Склад
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Склад
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 91, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1762861520
+  type: iblock_element
+
+===== UF_CRM_1776410250 =====
+  filterLabel: Складской адрес
+  formLabel: Складской адрес
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Складской адрес
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 91, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1776410250
+  type: iblock_element
+
+===== UF_CRM_1747210029 =====
+  filterLabel: Руководитель ответственного
+  formLabel: Руководитель ответственного
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель ответственного
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "IBLOCK_ID": "", "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1747210029
+  type: iblock_element
+
+===== UF_CRM_1751373674 =====
+  filterLabel: Наименование компаний (поставщиков)
+  formLabel: Наименование компаний (поставщиков)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Наименование компаний (поставщиков)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 107, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1751373674
+  type: iblock_element
+
+===== UF_CRM_1707998114 =====
+  filterLabel: Наша компания
+  formLabel: Наша компания
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Наша компания
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 107, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1707998114
+  type: iblock_element
+
+===== UF_CRM_1707998503 =====
+  filterLabel: Руководитель
+  formLabel: Руководитель
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 108, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1707998503
+  type: iblock_element
+
+===== UF_CRM_1690169191 =====
+  filterLabel: Подразделение
+  formLabel: Подразделение
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подразделение
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 64, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1690169191
+  type: iblock_element
+
+===== UF_CRM_1690169216 =====
+  filterLabel: Группа проекта
+  formLabel: Группа проекта
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Группа проекта
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 65, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1690169216
+  type: iblock_element
+
+===== UF_CRM_1695959583 =====
+  filterLabel: Склад получения(Адрес склада)
+  formLabel: Склад получения(Адрес склада)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Склад получения(Адрес склада)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 61, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1695959583
+  type: iblock_element
+
+===== UF_CRM_1722838069 =====
+  filterLabel: Склад выдачи (множ)
+  formLabel: Склад выдачи (множ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Склад выдачи (множ)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 91, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "Y"}
+  title: UF_CRM_1722838069
+  type: iblock_element
+
+===== UF_CRM_1761634508 =====
+  filterLabel: Регион работы ПМ
+  formLabel: Регион работы ПМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Регион работы ПМ
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 121, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1761634508
+  type: iblock_element
+
+===== UF_CRM_1755844579 =====
+  filterLabel: Город (9П)
+  formLabel: Город (9П)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Город (9П)
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "IBLOCK_ID": 104, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1755844579
+  type: iblock_element
+
+===== UF_CRM_1721728435 =====
+  filterLabel: Проект
+  formLabel: Проект
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Проект
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": "", "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1721728435
+  type: iblock_element
+
+===== UF_CRM_1721728466 =====
+  filterLabel: Подразделение
+  formLabel: Подразделение
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подразделение
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": "", "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1721728466
+  type: iblock_element
+
+===== UF_CRM_1768977461 =====
+  filterLabel: Поставщики
+  formLabel: Поставщики
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Поставщики
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1768977461
+  type: crm
+
+===== UF_CRM_1752662025 =====
+  filterLabel: Заказчик
+  formLabel: Заказчик
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заказчик
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1752662025
+  type: crm
+
+===== UF_CRM_1755267110 =====
+  filterLabel: Договора в реестре
+  formLabel: Договора в реестре
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Договора в реестре
+  settings: {"DYNAMIC_151": "Y", "LEAD": null}
+  title: UF_CRM_1755267110
+  type: crm
+
+===== UF_CRM_1721712374 =====
+  filterLabel: Партнер
+  formLabel: Партнер
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Партнер
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1721712374
+  type: crm
+
+===== UF_CRM_1716963585 =====
+  filterLabel: Актуальный договор
+  formLabel: Актуальный договор
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Актуальный договор
+  settings: {"DYNAMIC_151": "Y", "LEAD": null}
+  title: UF_CRM_1716963585
+  type: crm
+
+===== UF_CRM_1734616709 =====
+  filterLabel: Конечный покупатель
+  formLabel: Конечный покупатель
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Конечный покупатель
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1734616709
+  type: crm
+
+===== UF_CRM_1736519656 =====
+  filterLabel: Компания от которой выставляется документ
+  formLabel: Компания от которой выставляется документ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Компания от которой выставляется документ
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1736519656
+  type: crm
+
+===== UF_CRM_1752832825 =====
+  filterLabel: Подрядчик
+  formLabel: Подрядчик
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подрядчик
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1752832825
+  type: crm
+
+===== UF_CRM_1754462560 =====
+  filterLabel: Ответственный за выполнения работ(подрядчик)
+  formLabel: Ответственный за выполнения работ(подрядчик)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за выполнения работ(подрядчик)
+  settings: {"COMPANY": "Y", "LEAD": null}
+  title: UF_CRM_1754462560
+  type: crm
+
+===== UF_CRM_1748958727 =====
+  filterLabel: Компания заявитель
+  formLabel: Компания заявитель
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Компания заявитель
+  settings: {"LEAD": "Y", "CONTACT": "N", "COMPANY": "N", "DEAL": "N"}
+  title: UF_CRM_1748958727
+  type: crm
+
+===== UF_CRM_1720602525007 =====
+  filterLabel: Номер командировочного удостоверения
+  formLabel: Номер командировочного удостоверения
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер командировочного удостоверения
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1720602525007
+  type: string
+
+===== UF_CRM_1743773583 =====
+  filterLabel: Номер заказа клиента 1С
+  formLabel: Номер заказа клиента 1С
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер заказа клиента 1С
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1743773583
+  type: string
+
+===== UF_CRM_1743774058 =====
+  filterLabel: Номер документа (производство без заказа) в 1С:ERP
+  formLabel: Номер документа (производство без заказа) в 1С:ERP
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер документа (производство без заказа) в 1С:ERP
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1743774058
+  type: string
+
+===== UF_CRM_1745475319042 =====
+  filterLabel: № договора/гарантии (тендер)
+  formLabel: № договора/гарантии (тендер)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: № договора/гарантии (тендер)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1745475319042
+  type: string
+
+===== UF_CRM_1745475372851 =====
+  filterLabel: № договора/гарантии (договор)
+  formLabel: № договора/гарантии (договор)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: № договора/гарантии (договор)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1745475372851
+  type: string
+
+===== UF_CRM_1761646229793 =====
+  filterLabel: Сайт
+  formLabel: Сайт
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Сайт
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1761646229793
+  type: string
+
+===== UF_CRM_1761803104459 =====
+  filterLabel: № тендера
+  formLabel: № тендера
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: № тендера
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1761803104459
+  type: string
+
+===== UF_CRM_1775741479135 =====
+  filterLabel: Номера заказов поставщику
+  formLabel: Номера заказов поставщику
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номера заказов поставщику
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1775741479135
+  type: string
+
+===== UF_CRM_1776144193626 =====
+  filterLabel: Сумма счета(W)
+  formLabel: Сумма счета(W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Сумма счета(W)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1776144193626
+  type: string
+
+===== UF_CRM_1776144992737 =====
+  filterLabel: ФИО водителя
+  formLabel: ФИО водителя
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: ФИО водителя
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1776144992737
+  type: string
+
+===== UF_CRM_1728643943 =====
+  filterLabel: Номер АПП
+  formLabel: Номер АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер АПП
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1728643943
+  type: string
+
+===== UF_CRM_1728653780 =====
+  filterLabel: Заказ клиента (Перепродажа)
+  formLabel: Заказ клиента (Перепродажа)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заказ клиента (Перепродажа)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1728653780
+  type: string
+
+===== UF_CRM_1699868867936 =====
+  filterLabel: Номер заказа на продажу (С)
+  formLabel: Номер заказа на продажу (С)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер заказа на продажу (С)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": null}
+  title: UF_CRM_1699868867936
+  type: string
+
+===== UF_CRM_1699868885804 =====
+  filterLabel: Подразделение (С)
+  formLabel: Подразделение (С)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подразделение (С)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": null}
+  title: UF_CRM_1699868885804
+  type: string
+
+===== UF_CRM_1699868897916 =====
+  filterLabel: Проект (С)
+  formLabel: Проект (С)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Проект (С)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": null}
+  title: UF_CRM_1699868897916
+  type: string
+
+===== UF_CRM_1766416206142 =====
+  filterLabel: Сайт (Множественное)
+  formLabel: Сайт (Множественное)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Сайт (Множественное)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1766416206142
+  type: string
+
+===== UF_CRM_1764313823 =====
+  filterLabel: Аккаунты пользователей (тест)
+  formLabel: Аккаунты пользователей (тест)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Аккаунты пользователей (тест)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1764313823
+  type: string
+
+===== UF_CRM_1752554725307 =====
+  filterLabel: Номер заказа на продажу (Множественное)
+  formLabel: Номер заказа на продажу (Множественное)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер заказа на продажу (Множественное)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1752554725307
+  type: string
+
+===== UF_CRM_1709189980 =====
+  filterLabel: Номер накладной
+  formLabel: Номер накладной
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Номер накладной
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_CRM_1709189980
+  type: string
+
+===== UF_CRM_1761806538582 =====
+  filterLabel: Дата акта
+  formLabel: Дата акта
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата акта
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1761806538582
+  type: date
+
+===== UF_CRM_1761806582927 =====
+  filterLabel: Дата выставления
+  formLabel: Дата выставления
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата выставления
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1761806582927
+  type: date
+
+===== UF_CRM_1761643215004 =====
+  filterLabel: Фактическая дата окончания производства
+  formLabel: Фактическая дата окончания производства
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фактическая дата окончания производства
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1761643215004
+  type: date
+
+===== UF_CRM_1761736812715 =====
+  filterLabel: Дата поступления оплаты
+  formLabel: Дата поступления оплаты
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата поступления оплаты
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1761736812715
+  type: date
+
+===== UF_CRM_1726643225 =====
+  filterLabel: Дата начала командировки
+  formLabel: Дата начала командировки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата начала командировки
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1726643225
+  type: datetime
+
+===== UF_CRM_1726643258 =====
+  filterLabel: Дата окончания командировки
+  formLabel: Дата окончания командировки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата окончания командировки
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1726643258
+  type: datetime
+
+===== UF_CRM_1746525501598 =====
+  filterLabel: Дата напоминания про следующий отчёт(W/W)
+  formLabel: Дата напоминания про следующий отчёт(W/W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата напоминания про следующий отчёт(W/W)
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1746525501598
+  type: date
+
+===== UF_CRM_1746525533096 =====
+  filterLabel: Дата напоминания про следующий выезд (W/W)
+  formLabel: Дата напоминания про следующий выезд (W/W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата напоминания про следующий выезд (W/W)
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1746525533096
+  type: date
+
+===== UF_CRM_1782398428946 =====
+  filterLabel: Дата заказа клиента
+  formLabel: Дата заказа клиента
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата заказа клиента
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1782398428946
+  type: date
+
+===== UF_CRM_1782398774783 =====
+  filterLabel: Дата заказа поставщику
+  formLabel: Дата заказа поставщику
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата заказа поставщику
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1782398774783
+  type: date
+
+===== UF_CRM_1762861653744 =====
+  filterLabel: Фактическая дата начала производства
+  formLabel: Фактическая дата начала производства
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фактическая дата начала производства
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1762861653744
+  type: date
+
+===== UF_CRM_1762861667177 =====
+  filterLabel: Фактическая дата начала производства
+  formLabel: Фактическая дата начала производства
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фактическая дата начала производства
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1762861667177
+  type: date
+
+===== UF_CRM_1754905306118 =====
+  filterLabel: Дедлайн
+  formLabel: Дедлайн
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дедлайн
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1754905306118
+  type: date
+
+===== UF_CRM_1755176636122 =====
+  filterLabel: Ожидание до
+  formLabel: Ожидание до
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ожидание до
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1755176636122
+  type: date
+
+===== UF_CRM_1749039012954 =====
+  filterLabel: Дата планируемой выгрузки/конца работ
+  formLabel: Дата планируемой выгрузки/конца работ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата планируемой выгрузки/конца работ
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1749039012954
+  type: date
+
+===== UF_CRM_1776144086668 =====
+  filterLabel: Дата отправки счета(W)
+  formLabel: Дата отправки счета(W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата отправки счета(W)
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1776144086668
+  type: date
+
+===== UF_CRM_1776409922842 =====
+  filterLabel: Требуемая дата доставки
+  formLabel: Требуемая дата доставки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Требуемая дата доставки
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1776409922842
+  type: date
+
+===== UF_CRM_1728643157 =====
+  filterLabel: Дата формирования АПП
+  formLabel: Дата формирования АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата формирования АПП
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1728643157
+  type: date
+
+===== UF_CRM_1728643207 =====
+  filterLabel: Дата подписания АПП
+  formLabel: Дата подписания АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата подписания АПП
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1728643207
+  type: date
+
+===== UF_CRM_1728643717 =====
+  filterLabel: Планируемая дата окончания производства
+  formLabel: Планируемая дата окончания производства
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Планируемая дата окончания производства
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1728643717
+  type: date
+
+===== UF_CRM_1728643797 =====
+  filterLabel: Фактическая дата окончания производства
+  formLabel: Фактическая дата окончания производства
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фактическая дата окончания производства
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1728643797
+  type: date
+
+===== UF_CRM_1691061522 =====
+  filterLabel: Дата вступления в силу договора
+  formLabel: Дата вступления в силу договора
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата вступления в силу договора
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1691061522
+  type: date
+
+===== UF_CRM_1691061574 =====
+  filterLabel: Дата окончания договора с учетом автопролонгации
+  formLabel: Дата окончания договора с учетом автопролонгации
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата окончания договора с учетом автопролонгации
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1691061574
+  type: date
+
+===== UF_CRM_1721821582 =====
+  filterLabel: Дата оплаты
+  formLabel: Дата оплаты
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата оплаты
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1721821582
+  type: datetime
+
+===== UF_CRM_1712655484 =====
+  filterLabel: Дата планируемой реализации (W)
+  formLabel: Дата планируемой реализации (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата планируемой реализации (W)
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1712655484
+  type: date
+
+===== UF_CRM_1698122453 =====
+  filterLabel: Ответственный товаровед
+  formLabel: Ответственный товаровед
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный товаровед
+  settings: []
+  title: UF_CRM_1698122453
+  type: employee
+
+===== UF_CRM_1698124622 =====
+  filterLabel: Утвердитель
+  formLabel: Утвердитель
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Утвердитель
+  settings: []
+  title: UF_CRM_1698124622
+  type: employee
+
+===== UF_CRM_1698146293 =====
+  filterLabel: Кладовщик по складу
+  formLabel: Кладовщик по складу
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Кладовщик по складу
+  settings: []
+  title: UF_CRM_1698146293
+  type: employee
+
+===== UF_CRM_1706274250 =====
+  filterLabel: Директор руководителя
+  formLabel: Директор руководителя
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Директор руководителя
+  settings: []
+  title: UF_CRM_1706274250
+  type: employee
+
+===== UF_CRM_1722867358 =====
+  filterLabel: Ответственный проектировщик
+  formLabel: Ответственный проектировщик
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный проектировщик
+  settings: []
+  title: UF_CRM_1722867358
+  type: employee
+
+===== UF_CRM_1726150091 =====
+  filterLabel: ПМ
+  formLabel: ПМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: ПМ
+  settings: []
+  title: UF_CRM_1726150091
+  type: employee
+
+===== UF_CRM_1754462454 =====
+  filterLabel: Ответсвтенный за выполнения работ
+  formLabel: Ответсвтенный за выполнения работ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответсвтенный за выполнения работ
+  settings: []
+  title: UF_CRM_1754462454
+  type: employee
+
+===== UF_CRM_1761634981 =====
+  filterLabel: Ответственный за производство
+  formLabel: Ответственный за производство
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за производство
+  settings: []
+  title: UF_CRM_1761634981
+  type: employee
+
+===== UF_CRM_1785222223 =====
+  filterLabel: Ответственный снабженец
+  formLabel: Ответственный снабженец
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный снабженец
+  settings: []
+  title: UF_CRM_1785222223
+  type: employee
+
+===== UF_CRM_1747291699 =====
+  filterLabel: Ответственный логист
+  formLabel: Ответственный логист
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный логист
+  settings: []
+  title: UF_CRM_1747291699
+  type: employee
+
+===== UF_CRM_1719837619 =====
+  filterLabel: Ответственный. История. Тех. поле.
+  formLabel: Ответственный. История. Тех. поле.
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный. История. Тех. поле.
+  settings: []
+  title: UF_CRM_1719837619
+  type: employee
+
+===== UF_CRM_1667760345 =====
+  filterLabel: Ответственный за продажу (ЗТ)
+  formLabel: Ответственный за продажу (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за продажу (ЗТ)
+  settings: []
+  title: UF_CRM_1667760345
+  type: employee
+
+===== UF_CRM_1674826014 =====
+  filterLabel: Руководитель проекта (ЗТ)
+  formLabel: Руководитель проекта (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель проекта (ЗТ)
+  settings: []
+  title: UF_CRM_1674826014
+  type: employee
+
+===== UF_CRM_1722496233 =====
+  filterLabel: Менеджер проекта
+  formLabel: Менеджер проекта
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Менеджер проекта
+  settings: []
+  title: UF_CRM_1722496233
+  type: employee
+
+===== UF_CRM_1721820611 =====
+  filterLabel: Кем создан
+  formLabel: Кем создан
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Кем создан
+  settings: []
+  title: UF_CRM_1721820611
+  type: employee
+
+===== UF_CRM_1721820934 =====
+  filterLabel: Утверждающий
+  formLabel: Утверждающий
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Утверждающий
+  settings: []
+  title: UF_CRM_1721820934
+  type: employee
+
+===== UF_CRM_1752663182 =====
+  filterLabel: Ответственный за обследования (сотрудник в битриксе)
+  formLabel: Ответственный за обследования (сотрудник в битриксе)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за обследования (сотрудник в битриксе)
+  settings: []
+  title: UF_CRM_1752663182
+  type: employee
+
+===== UF_CRM_1752663539 =====
+  filterLabel: Ответственный за документацию
+  formLabel: Ответственный за документацию
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за документацию
+  settings: []
+  title: UF_CRM_1752663539
+  type: employee
+
+===== UF_CRM_1747209895 =====
+  filterLabel: Заявитель (Заполняется автоматически)
+  formLabel: Заявитель (Заполняется автоматически)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявитель (Заполняется автоматически)
+  settings: []
+  title: UF_CRM_1747209895
+  type: employee
+
+===== UF_CRM_1739539921 =====
+  filterLabel: Prodvig. Тех. поле ответственный
+  formLabel: Prodvig. Тех. поле ответственный
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Prodvig. Тех. поле ответственный
+  settings: []
+  title: UF_CRM_1739539921
+  type: employee
+
+===== UF_CRM_3834411152636 =====
+  filterLabel: Руководитель (Пользователь)
+  formLabel: Руководитель (Пользователь)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель (Пользователь)
+  settings: []
+  title: UF_CRM_3834411152636
+  type: employee
+
+===== UF_CRM_1709113227 =====
+  filterLabel: Регион ПМ
+  formLabel: Регион ПМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '5178', 'VALUE': 'Алматы'}
+    {'ID': '5179', 'VALUE': 'Астана'}
+    {'ID': '5180', 'VALUE': 'Шымкент'}
+    {'ID': '5181', 'VALUE': 'Абайская область'}
+    {'ID': '5182', 'VALUE': 'Акмолинская область'}
+    {'ID': '5183', 'VALUE': 'Актюбинская область'}
+    {'ID': '5184', 'VALUE': 'Алматинская область'}
+    {'ID': '5185', 'VALUE': 'Атырауская область'}
+    {'ID': '5186', 'VALUE': 'Восточно-Казахстанская область'}
+    {'ID': '5187', 'VALUE': 'Жамбылская область'}
+    {'ID': '5188', 'VALUE': 'Жетысуская область'}
+    {'ID': '5189', 'VALUE': 'Западно-Казахстанская область'}
+    {'ID': '5190', 'VALUE': 'Карагандинская область'}
+    {'ID': '5191', 'VALUE': 'Костанайская область'}
+    {'ID': '5192', 'VALUE': 'Кызылординская область'}
+  listLabel: Регион ПМ
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 5, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1709113227
+  type: enumeration
+
+===== UF_CRM_1747213696241 =====
+  filterLabel: Регион работы ПМ
+  formLabel: Регион работы ПМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '8034', 'VALUE': 'Абайская область'}
+    {'ID': '8035', 'VALUE': 'Акмолинская область'}
+    {'ID': '8036', 'VALUE': 'Актюбинская область'}
+    {'ID': '8037', 'VALUE': 'Алматинская область'}
+    {'ID': '8038', 'VALUE': 'Алматы'}
+    {'ID': '8039', 'VALUE': 'Астана'}
+    {'ID': '8040', 'VALUE': 'Атырауская область'}
+    {'ID': '8041', 'VALUE': 'Восточно-Казахстанская область'}
+    {'ID': '8042', 'VALUE': 'Жамбылская область'}
+    {'ID': '8043', 'VALUE': 'Жетысуская область'}
+    {'ID': '8044', 'VALUE': 'Западно-Казахстанская область'}
+    {'ID': '8045', 'VALUE': 'Карагандинская область'}
+    {'ID': '8046', 'VALUE': 'Костанайская область'}
+    {'ID': '8047', 'VALUE': 'Кызылординская область'}
+    {'ID': '8048', 'VALUE': 'Мангистауская область'}
+  listLabel: Регион работы ПМ
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1747213696241
+  type: enumeration
+
+===== UF_CRM_1761221407151 =====
+  filterLabel: Расчет ценообразования
+  formLabel: Расчет ценообразования
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Расчет ценообразования
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1761221407151
+  type: file
+
+===== UF_CRM_1728641720 =====
+  filterLabel: Проект для проверки ЦМК
+  formLabel: Проект для проверки ЦМК
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '6471', 'VALUE': 'АФУ-проект'}
+    {'ID': '6472', 'VALUE': 'Рабочий проект'}
+    {'ID': '6487', 'VALUE': 'КМД'}
+    {'ID': '7357', 'VALUE': 'КМ'}
+  listLabel: Проект для проверки ЦМК
+  settings: {"DISPLAY": "DIALOG", "LIST_HEIGHT": 5, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1728641720
+  type: enumeration
+
+===== UF_CRM_1728642400 =====
+  filterLabel: АПП
+  formLabel: АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: АПП
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1728642400
+  type: file
+
+===== UF_CRM_1728642442 =====
+  filterLabel: Подписанный АПП
+  formLabel: Подписанный АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подписанный АПП
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1728642442
+  type: file
+
+===== UF_CRM_1756291374 =====
+  filterLabel: Командировочное удостоверение
+  formLabel: Командировочное удостоверение
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Командировочное удостоверение
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291374
+  type: file
+
+===== UF_CRM_1756291386 =====
+  filterLabel: Посадочные талоны
+  formLabel: Посадочные талоны
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Посадочные талоны
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291386
+  type: file
+
+===== UF_CRM_1756291400 =====
+  filterLabel: Фискальные чеки
+  formLabel: Фискальные чеки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фискальные чеки
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291400
+  type: file
+
+===== UF_CRM_1756291428 =====
+  filterLabel: АВР
+  formLabel: АВР
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: АВР
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291428
+  type: file
+
+===== UF_CRM_1756291460 =====
+  filterLabel: Счет-фактуры
+  formLabel: Счет-фактуры
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Счет-фактуры
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291460
+  type: file
+
+===== UF_CRM_1756291500 =====
+  filterLabel: Накладные
+  formLabel: Накладные
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Накладные
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291500
+  type: file
+
+===== UF_CRM_1756291521 =====
+  filterLabel: Прочие файлы
+  formLabel: Прочие файлы
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Прочие файлы
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756291521
+  type: file
+
+===== UF_CRM_1776410544520 =====
+  filterLabel: Разбивка по номерам заказа на продажу
+  formLabel: Разбивка по номерам заказа на продажу
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Разбивка по номерам заказа на продажу
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1776410544520
+  type: file
+
+===== UF_CRM_1777541207629 =====
+  filterLabel: Техника безопасности
+  formLabel: Техника безопасности
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техника безопасности
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1777541207629
+  type: file
+
+===== UF_CRM_1778563768958 =====
+  filterLabel: Журнал ТБ
+  formLabel: Журнал ТБ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Журнал ТБ
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1778563768958
+  type: file
+
+===== UF_CRM_1778584578245 =====
+  filterLabel: Программы инструктажа
+  formLabel: Программы инструктажа
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Программы инструктажа
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1778584578245
+  type: file
+
+===== UF_CRM_1778584642482 =====
+  filterLabel: Программы инструктажа пожарный
+  formLabel: Программы инструктажа пожарный
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Программы инструктажа пожарный
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1778584642482
+  type: file
+
+===== UF_CRM_1781085927590 =====
+  filterLabel: Журнал учёта проведения противопожарного инструктажа
+  formLabel: Журнал учёта проведения противопожарного инструктажа
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Журнал учёта проведения противопожарного инструктажа
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1781085927590
+  type: file
+
+===== UF_CRM_1781085937532 =====
+  filterLabel: Журнал регистрации вводного инструктажа
+  formLabel: Журнал регистрации вводного инструктажа
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Журнал регистрации вводного инструктажа
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1781085937532
+  type: file
+
+===== UF_CRM_1782368775994 =====
+  filterLabel: Единая программа вводного инструктажа
+  formLabel: Единая программа вводного инструктажа
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Единая программа вводного инструктажа
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1782368775994
+  type: file
+
+===== UF_CRM_1782370849316 =====
+  filterLabel: Прием инструкция
+  formLabel: Прием инструкция
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Прием инструкция
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1782370849316
+  type: file
+
+===== UF_CRM_1755514565005 =====
+  filterLabel: Расчет себестоимости
+  formLabel: Расчет себестоимости
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Расчет себестоимости
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755514565005
+  type: file
+
+===== UF_CRM_1755514636981 =====
+  filterLabel: Коммерческий расчет
+  formLabel: Коммерческий расчет
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Коммерческий расчет
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755514636981
+  type: file
+
+===== UF_CRM_1755514936719 =====
+  filterLabel:  Техническая документация (Опросный лист, однолинейные схемы)
+  formLabel:  Техническая документация (Опросный лист, однолинейные схемы)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel:  Техническая документация (Опросный лист, однолинейные схемы)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755514936719
+  type: file
+
+===== UF_CRM_1755515217593 =====
+  filterLabel:  Счет на оплату
+  formLabel:  Счет на оплату
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel:  Счет на оплату
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755515217593
+  type: file
+
+===== UF_CRM_1755515440202 =====
+  filterLabel: Договор 9П
+  formLabel: Договор 9П
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Договор 9П
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755515440202
+  type: file
+
+===== UF_CRM_1746430055845 =====
+  filterLabel: КП / Расчет КП
+  formLabel: КП / Расчет КП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: КП / Расчет КП
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1746430055845
+  type: file
+
+===== UF_CRM_1746696611 =====
+  filterLabel: Заявление на отпуск
+  formLabel: Заявление на отпуск
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявление на отпуск
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1746696611
+  type: file
+
+===== UF_CRM_1747043933299 =====
+  filterLabel: КП / Расчет КП
+  formLabel: КП / Расчет КП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: КП / Расчет КП
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1747043933299
+  type: file
+
+===== UF_CRM_1722519481 =====
+  filterLabel: Акт выбора позиции
+  formLabel: Акт выбора позиции
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Акт выбора позиции
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722519481
+  type: file
+
+===== UF_CRM_1722519499 =====
+  filterLabel: Протокол потока
+  formLabel: Протокол потока
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Протокол потока
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722519499
+  type: file
+
+===== UF_CRM_1722519514 =====
+  filterLabel: ТУ 1
+  formLabel: ТУ 1
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: ТУ 1
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722519514
+  type: file
+
+===== UF_CRM_1722519621 =====
+  filterLabel: Техническое задание на стройку
+  formLabel: Техническое задание на стройку
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техническое задание на стройку
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722519621
+  type: file
+
+===== UF_CRM_1712655375 =====
+  filterLabel: Опросник (W)
+  formLabel: Опросник (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Опросник (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655375
+  type: file
+
+===== UF_CRM_1712655400 =====
+  filterLabel: Схема сети (W)
+  formLabel: Схема сети (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Схема сети (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655400
+  type: file
+
+===== UF_CRM_1712655531 =====
+  filterLabel: Доп. файлы
+  formLabel: Доп. файлы
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Доп. файлы
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655531
+  type: file
+
+===== UF_CRM_1712655594 =====
+  filterLabel: Коммерческое предложение (W)
+  formLabel: Коммерческое предложение (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Коммерческое предложение (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655594
+  type: file
+
+===== UF_CRM_1712655614 =====
+  filterLabel: Спецификация (W)
+  formLabel: Спецификация (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Спецификация (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655614
+  type: file
+
+===== UF_CRM_1712655632 =====
+  filterLabel: Техническое решение (W)
+  formLabel: Техническое решение (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техническое решение (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655632
+  type: file
+
+===== UF_CRM_1712655679 =====
+  filterLabel: Актуальный договор (Temp)
+  formLabel: Актуальный договор (Temp)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Актуальный договор (Temp)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655679
+  type: file
+
+===== UF_CRM_1712655701 =====
+  filterLabel: Документы на оборудование (W)
+  formLabel: Документы на оборудование (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Документы на оборудование (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655701
+  type: file
+
+===== UF_CRM_1712655722 =====
+  filterLabel: Сертификат (W)
+  formLabel: Сертификат (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Сертификат (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655722
+  type: file
+
+===== UF_CRM_1712655749 =====
+  filterLabel: Закрывающие документы (W)
+  formLabel: Закрывающие документы (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Закрывающие документы (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655749
+  type: file
+
+===== UF_CRM_1712655765 =====
+  filterLabel: Акт ввода в эксплуатацию (W)
+  formLabel: Акт ввода в эксплуатацию (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Акт ввода в эксплуатацию (W)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1712655765
+  type: file
+
+===== UF_ONEC_GUID =====
+  filterLabel: GUID в 1с (System)
+  formLabel: GUID в 1с (System)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: GUID в 1с (System)
+  settings: {"SIZE": 20, "ROWS": 1, "REGEXP": "", "MIN_LENGTH": 0, "MAX_LENGTH": 0, "DEFAULT_VALUE": ""}
+  title: UF_ONEC_GUID
+  type: string
+
+===== UF_CRM_1696331830205 =====
+  filterLabel: Текущее состояние
+  formLabel: Текущее состояние
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '4671', 'VALUE': 'На согласовании'}
+    {'ID': '4672', 'VALUE': 'К отгрузке'}
+    {'ID': '4673', 'VALUE': 'В резерве'}
+    {'ID': '4674', 'VALUE': 'Закрыт'}
+  listLabel: Текущее состояние
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1696331830205
+  type: enumeration
+
+===== UF_CRM_1743502641396 =====
+  filterLabel: Способ оплаты обеспечения договора
+  formLabel: Способ оплаты обеспечения договора
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items: []
+  listLabel: Способ оплаты обеспечения договора
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1743502641396
+  type: enumeration
+
+===== UF_CRM_1747633240072 =====
+  filterLabel: Причина провала тендера
+  formLabel: Причина провала тендера
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items: []
+  listLabel: Причина провала тендера
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1747633240072
+  type: enumeration
+
+===== UF_CRM_1747633601911 =====
+  filterLabel: Будет квалификационный отбор
+  formLabel: Будет квалификационный отбор
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items: []
+  listLabel: Будет квалификационный отбор
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1747633601911
+  type: enumeration
+
+===== UF_CRM_1747646213915 =====
+  filterLabel: Требуется обеспечение договора
+  formLabel: Требуется обеспечение договора
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items: []
+  listLabel: Требуется обеспечение договора
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1747646213915
+  type: enumeration
+
+===== UF_CRM_1746430159402 =====
+  filterLabel: Условия оплаты(W)
+  formLabel: Условия оплаты(W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items: []
+  listLabel: Условия оплаты(W)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1746430159402
+  type: enumeration
+
+===== UF_CRM_1754459726594 =====
+  filterLabel: Тип поставки
+  formLabel: Тип поставки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '7335', 'VALUE': 'ЦМК'}
+    {'ID': '7336', 'VALUE': 'Снабжение'}
+    {'ID': '7337', 'VALUE': 'ЦМК + Снабжение'}
+    {'ID': '7389', 'VALUE': 'Подрядчик'}
+  listLabel: Тип поставки
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1754459726594
+  type: enumeration
+
+===== UF_CRM_1754905185286 =====
+  filterLabel: Тип заказа
+  formLabel: Тип заказа
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '7370', 'VALUE': 'Производство'}
+    {'ID': '7371', 'VALUE': 'Купи-продай'}
+  listLabel: Тип заказа
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1754905185286
+  type: enumeration
+
+===== UF_CRM_1763624574 =====
+  filterLabel: Тип оплаты
+  formLabel: Тип оплаты
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '8063', 'VALUE': 'Наличный'}
+    {'ID': '8064', 'VALUE': 'Безналичный'}
+  listLabel: Тип оплаты
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1763624574
+  type: enumeration
+
+===== UF_CRM_1775220067844 =====
+  filterLabel: Тип расхода
+  formLabel: Тип расхода
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '8102', 'VALUE': 'Административный'}
+    {'ID': '8103', 'VALUE': 'Проектный'}
+  listLabel: Тип расхода
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1775220067844
+  type: enumeration
+
+===== UF_CRM_1695959129006 =====
+  filterLabel: Вид заявки
+  formLabel: Вид заявки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '4556', 'VALUE': 'На сайт'}
+    {'ID': '4557', 'VALUE': 'На склад'}
+    {'ID': '7397', 'VALUE': 'Выдача оборудования'}
+  listLabel: Вид заявки
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1695959129006
+  type: enumeration
+
+===== UF_CRM_1698812862550 =====
+  filterLabel: Склад выдачи (С)
+  formLabel: Склад выдачи (С)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '6091', 'VALUE': 'Склад Аврора 71П Контейнер Ходжанова'}
+    {'ID': '6092', 'VALUE': 'Склад Аврора Астана'}
+    {'ID': '6093', 'VALUE': 'Склад Аврора Актау'}
+    {'ID': '6094', 'VALUE': 'Склад Аврора Актобе'}
+    {'ID': '6095', 'VALUE': 'Склад Аврора Атырау'}
+    {'ID': '6096', 'VALUE': 'Склад Аврора Караганда'}
+    {'ID': '6097', 'VALUE': 'Склад Аврора Кызылорда'}
+    {'ID': '6098', 'VALUE': 'Склад Аврора Костанай'}
+    {'ID': '6099', 'VALUE': 'Склад Аврора Павлодар'}
+    {'ID': '6100', 'VALUE': 'Склад Аврора Петропавловск'}
+    {'ID': '6101', 'VALUE': 'Склад Аврора Семей'}
+    {'ID': '6102', 'VALUE': 'Склад Аврора Талдыкорган'}
+    {'ID': '6103', 'VALUE': 'Склад Аврора Тараз'}
+    {'ID': '6104', 'VALUE': 'Склад Аврора Шымкент'}
+    {'ID': '6105', 'VALUE': 'Склад Аврора Уральск'}
+  listLabel: Склад выдачи (С)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1698812862550
+  type: enumeration
+
+===== UF_CRM_1698816090552 =====
+  filterLabel: Склад получатель (С)
+  formLabel: Склад получатель (С)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  items:
+    {'ID': '6110', 'VALUE': 'Склад Аврора 71П Контейнер Ходжанова'}
+    {'ID': '6111', 'VALUE': 'Склад Аврора Астана'}
+    {'ID': '6112', 'VALUE': 'Склад Аврора Актау'}
+    {'ID': '6113', 'VALUE': 'Склад Аврора Актобе'}
+    {'ID': '6114', 'VALUE': 'Склад Аврора Атырау'}
+    {'ID': '6115', 'VALUE': 'Склад Аврора Караганда'}
+    {'ID': '6116', 'VALUE': 'Склад Аврора Талдыкорган'}
+    {'ID': '6117', 'VALUE': 'Склад Аврора ЭТЗ(1)'}
+    {'ID': '6118', 'VALUE': 'Склад Аврора Кызылорда'}
+    {'ID': '6119', 'VALUE': 'Склад Аврора Костанай'}
+    {'ID': '6120', 'VALUE': 'Склад Аврора Павлодар'}
+    {'ID': '6121', 'VALUE': 'Склад Аврора Петропавловск'}
+    {'ID': '6122', 'VALUE': 'Склад Аврора Семей'}
+    {'ID': '6123', 'VALUE': 'Склад Аврора Тараз'}
+    {'ID': '6124', 'VALUE': 'Склад Аврора Шымкент'}
+  listLabel: Склад получатель (С)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "CAPTION_NO_VALUE": "", "SHOW_NO_VALUE": "Y"}
+  title: UF_CRM_1698816090552
+  type: enumeration
+
+===== UF_CRM_1765539308475 =====
+  filterLabel: Выгрузка
+  formLabel: Выгрузка
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Выгрузка
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1765539308475
+  type: file
+
+===== UF_CRM_1765373368231 =====
+  filterLabel: Выгрузка
+  formLabel: Выгрузка
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Выгрузка
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1765373368231
+  type: file
+
+===== UF_CRM_1762780595925 =====
+  filterLabel: Заявление на перевод
+  formLabel: Заявление на перевод
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявление на перевод
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1762780595925
+  type: file
+
+===== UF_CRM_1762861280726 =====
+  filterLabel: Расчет ценообразования
+  formLabel: Расчет ценообразования
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Расчет ценообразования
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1762861280726
+  type: file
+
+===== UF_CRM_1762861308584 =====
+  filterLabel: Разработка проекта КМД
+  formLabel: Разработка проекта КМД
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Разработка проекта КМД
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1762861308584
+  type: file
+
+===== UF_CRM_1762149276463 =====
+  filterLabel: Заявление на приём
+  formLabel: Заявление на приём
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявление на приём
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1762149276463
+  type: file
+
+===== UF_CRM_1762409410483 =====
+  filterLabel: Техническое задание
+  formLabel: Техническое задание
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техническое задание
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1762409410483
+  type: file
+
+===== UF_CRM_1758102005981 =====
+  filterLabel: Служебная записка 99П
+  formLabel: Служебная записка 99П
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Служебная записка 99П
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1758102005981
+  type: file
+
+===== UF_CRM_1756766787095 =====
+  filterLabel:  Файл проекта
+  formLabel:  Файл проекта
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel:  Файл проекта
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1756766787095
+  type: file
+
+===== UF_CRM_1757058733560 =====
+  filterLabel: Связанная сделка
+  formLabel: Связанная сделка
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Связанная сделка
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1757058733560
+  type: file
+
+===== UF_CRM_1757059335202 =====
+  filterLabel: Служебная записка
+  formLabel: Служебная записка
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Служебная записка
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1757059335202
+  type: file
+
+===== UF_CRM_1757076796186 =====
+  filterLabel: Служебная записка
+  formLabel: Служебная записка
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Служебная записка
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1757076796186
+  type: file
+
+===== UF_CRM_1757308888620 =====
+  filterLabel: Подписанные документы (cms)
+  formLabel: Подписанные документы (cms)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подписанные документы (cms)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1757308888620
+  type: file
+
+===== UF_CRM_1757308928508 =====
+  filterLabel: Подписанные документы (QR)
+  formLabel: Подписанные документы (QR)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подписанные документы (QR)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1757308928508
+  type: file
+
+===== UF_CRM_1755241378 =====
+  filterLabel: Заявление на увольнение
+  formLabel: Заявление на увольнение
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявление на увольнение
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1755241378
+  type: file
+
+===== UF_CRM_1751519650835 =====
+  filterLabel: КП с печатью
+  formLabel: КП с печатью
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: КП с печатью
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1751519650835
+  type: file
+
+===== UF_CRM_1751952830276 =====
+  filterLabel: Фото выгрузки
+  formLabel: Фото выгрузки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Фото выгрузки
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1751952830276
+  type: file
+
+===== UF_CRM_1743502490465 =====
+  filterLabel: Платежное поручение по обеспечению договора
+  formLabel: Платежное поручение по обеспечению договора
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Платежное поручение по обеспечению договора
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1743502490465
+  type: file
+
+===== UF_CRM_1736323632 =====
+  filterLabel: Подписанный АПП
+  formLabel: Подписанный АПП
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подписанный АПП
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1736323632
+  type: file
+
+===== UF_CRM_1733205619 =====
+  filterLabel: Расходный ордер отгрузки со склада
+  formLabel: Расходный ордер отгрузки со склада
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Расходный ордер отгрузки со склада
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1733205619
+  type: file
+
+===== UF_CRM_1725884223 =====
+  filterLabel: Заказ (пункты ТЦП)
+  formLabel: Заказ (пункты ТЦП)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заказ (пункты ТЦП)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1725884223
+  type: file
+
+===== UF_CRM_1722953876 =====
+  filterLabel: Проект
+  formLabel: Проект
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Проект
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722953876
+  type: file
+
+===== UF_CRM_1721914588 =====
+  filterLabel: Шаблон заявки
+  formLabel: Шаблон заявки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Шаблон заявки
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1721914588
+  type: file
+
+===== UF_CRM_1722248478 =====
+  filterLabel: ЛУМ
+  formLabel: ЛУМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: ЛУМ
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722248478
+  type: file
+
+===== UF_CRM_1722504781 =====
+  filterLabel: Счет-фактура
+  formLabel: Счет-фактура
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Счет-фактура
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722504781
+  type: file
+
+===== UF_CRM_1722837975 =====
+  filterLabel: ЛУМ (множ)
+  formLabel: ЛУМ (множ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: ЛУМ (множ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1722837975
+  type: file
+
+===== UF_CRM_1712656417 =====
+  filterLabel: Пауза до
+  formLabel: Пауза до
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Пауза до
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1712656417
+  type: datetime
+
+===== UF_CRM_1713249781 =====
+  filterLabel: Дата и время презентации
+  formLabel: Дата и время презентации
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата и время презентации
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1713249781
+  type: datetime
+
+===== UF_CRM_1710252214728 =====
+  filterLabel: Дата отгрузки
+  formLabel: Дата отгрузки
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата отгрузки
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}, "USE_SECOND": "Y", "USE_TIMEZONE": "N"}
+  title: UF_CRM_1710252214728
+  type: datetime
+
+===== UF_CRM_1692597555804 =====
+  filterLabel: Дополнительные документы по тендеру (В)
+  formLabel: Дополнительные документы по тендеру (В)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дополнительные документы по тендеру (В)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1692597555804
+  type: file
+
+===== UF_CRM_1692597591192 =====
+  filterLabel: Оригинал заключенного договора (В)
+  formLabel: Оригинал заключенного договора (В)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Оригинал заключенного договора (В)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1692597591192
+  type: file
+
+===== UF_CRM_1692599968621 =====
+  filterLabel: Техническая спецификация (В)
+  formLabel: Техническая спецификация (В)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техническая спецификация (В)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1692599968621
+  type: file
+
+===== UF_CRM_1692599995461 =====
+  filterLabel: Договор (В)
+  formLabel: Договор (В)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Договор (В)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1692599995461
+  type: file
+
+===== UF_CRM_1691061627458 =====
+  filterLabel: Договор в редакции (ПА)
+  formLabel: Договор в редакции (ПА)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Договор в редакции (ПА)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1691061627458
+  type: file
+
+===== UF_CRM_1691061639385 =====
+  filterLabel: Скан-копия подписанного Договора (ПА)
+  formLabel: Скан-копия подписанного Договора (ПА)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Скан-копия подписанного Договора (ПА)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1691061639385
+  type: file
+
+===== UF_CRM_1666782686 =====
+  filterLabel: Техническое задание
+  formLabel: Техническое задание
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Техническое задание
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1666782686
+  type: file
+
+===== UF_CRM_1666782828 =====
+  filterLabel: Платежное поручение по обеспечению тендера
+  formLabel: Платежное поручение по обеспечению тендера
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Платежное поручение по обеспечению тендера
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1666782828
+  type: file
+
+===== UF_CRM_1666782875 =====
+  filterLabel: Промежуточная документация (ЗТ)
+  formLabel: Промежуточная документация (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Промежуточная документация (ЗТ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1666782875
+  type: file
+
+===== UF_CRM_1666782989 =====
+  filterLabel: Итоги тендера (Протокол и прочие документы) (ЗТ)
+  formLabel: Итоги тендера (Протокол и прочие документы) (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Итоги тендера (Протокол и прочие документы) (ЗТ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1666782989
+  type: file
+
+===== UF_CRM_1666783421 =====
+  filterLabel: Банковская гарантия (ЗТ)
+  formLabel: Банковская гарантия (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Банковская гарантия (ЗТ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1666783421
+  type: file
+
+===== UF_CRM_1667281404 =====
+  filterLabel: Подписанный договор
+  formLabel: Подписанный договор
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подписанный договор
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1667281404
+  type: file
+
+===== UF_CRM_1667909648 =====
+  filterLabel: РАСЧЕТЫ ДЛЯ КП (ЗТ)
+  formLabel: РАСЧЕТЫ ДЛЯ КП (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: РАСЧЕТЫ ДЛЯ КП (ЗТ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1667909648
+  type: file
+
+===== UF_CRM_1668599304 =====
+  filterLabel: Альтернативные КП (ЗТ)
+  formLabel: Альтернативные КП (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Альтернативные КП (ЗТ)
+  settings: {"SIZE": 20, "LIST_WIDTH": 0, "LIST_HEIGHT": 0, "MAX_SHOW_SIZE": 0, "MAX_ALLOWED_SIZE": 0, "EXTENSIONS": [], "TARGET_BLANK": "Y"}
+  title: UF_CRM_1668599304
+  type: file
+
+===== UF_CRM_1712656167 =====
+  filterLabel: Список инженеров (W)
+  formLabel: Список инженеров (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Список инженеров (W)
+  settings: {"DISPLAY": "LIST", "LIST_HEIGHT": 1, "IBLOCK_ID": 111, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1712656167
+  type: iblock_element
+
+===== UF_CRM_1744896002 =====
+  filterLabel: Подразделение ЦМК
+  formLabel: Подразделение ЦМК
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Подразделение ЦМК
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "IBLOCK_ID": 64, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1744896002
+  type: iblock_element
+
+===== UF_CRM_1744896051 =====
+  filterLabel: Проект ЦМК
+  formLabel: Проект ЦМК
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Проект ЦМК
+  settings: {"DISPLAY": "UI", "LIST_HEIGHT": 1, "IBLOCK_ID": 65, "DEFAULT_VALUE": "", "ACTIVE_FILTER": "N"}
+  title: UF_CRM_1744896051
+  type: iblock_element
+
+===== UF_CRM_1712655484 =====
+  filterLabel: Дата планируемой реализации (W)
+  formLabel: Дата планируемой реализации (W)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Дата планируемой реализации (W)
+  settings: {"DEFAULT_VALUE": {"TYPE": "NONE", "VALUE": ""}}
+  title: UF_CRM_1712655484
+  type: date
+
+===== UF_CRM_1698122453 =====
+  filterLabel: Ответственный товаровед
+  formLabel: Ответственный товаровед
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный товаровед
+  settings: []
+  title: UF_CRM_1698122453
+  type: employee
+
+===== UF_CRM_1698124622 =====
+  filterLabel: Утвердитель
+  formLabel: Утвердитель
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Утвердитель
+  settings: []
+  title: UF_CRM_1698124622
+  type: employee
+
+===== UF_CRM_1698146293 =====
+  filterLabel: Кладовщик по складу
+  formLabel: Кладовщик по складу
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Кладовщик по складу
+  settings: []
+  title: UF_CRM_1698146293
+  type: employee
+
+===== UF_CRM_1706274250 =====
+  filterLabel: Директор руководителя
+  formLabel: Директор руководителя
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Директор руководителя
+  settings: []
+  title: UF_CRM_1706274250
+  type: employee
+
+===== UF_CRM_1726150091 =====
+  filterLabel: ПМ
+  formLabel: ПМ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: ПМ
+  settings: []
+  title: UF_CRM_1726150091
+  type: employee
+
+===== UF_CRM_1754462454 =====
+  filterLabel: Ответсвтенный за выполнения работ
+  formLabel: Ответсвтенный за выполнения работ
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответсвтенный за выполнения работ
+  settings: []
+  title: UF_CRM_1754462454
+  type: employee
+
+===== UF_CRM_1761634981 =====
+  filterLabel: Ответственный за производство
+  formLabel: Ответственный за производство
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за производство
+  settings: []
+  title: UF_CRM_1761634981
+  type: employee
+
+===== UF_CRM_1785222223 =====
+  filterLabel: Ответственный снабженец
+  formLabel: Ответственный снабженец
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный снабженец
+  settings: []
+  title: UF_CRM_1785222223
+  type: employee
+
+===== UF_CRM_1747291699 =====
+  filterLabel: Ответственный логист
+  formLabel: Ответственный логист
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный логист
+  settings: []
+  title: UF_CRM_1747291699
+  type: employee
+
+===== UF_CRM_1719837619 =====
+  filterLabel: Ответственный. История. Тех. поле.
+  formLabel: Ответственный. История. Тех. поле.
+  isDynamic: True
+  isImmutable: False
+  isMultiple: True
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный. История. Тех. поле.
+  settings: []
+  title: UF_CRM_1719837619
+  type: employee
+
+===== UF_CRM_1667760345 =====
+  filterLabel: Ответственный за продажу (ЗТ)
+  formLabel: Ответственный за продажу (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за продажу (ЗТ)
+  settings: []
+  title: UF_CRM_1667760345
+  type: employee
+
+===== UF_CRM_1674826014 =====
+  filterLabel: Руководитель проекта (ЗТ)
+  formLabel: Руководитель проекта (ЗТ)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель проекта (ЗТ)
+  settings: []
+  title: UF_CRM_1674826014
+  type: employee
+
+===== UF_CRM_1722496233 =====
+  filterLabel: Менеджер проекта
+  formLabel: Менеджер проекта
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Менеджер проекта
+  settings: []
+  title: UF_CRM_1722496233
+  type: employee
+
+===== UF_CRM_1721820611 =====
+  filterLabel: Кем создан
+  formLabel: Кем создан
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Кем создан
+  settings: []
+  title: UF_CRM_1721820611
+  type: employee
+
+===== UF_CRM_1721820934 =====
+  filterLabel: Утверждающий
+  formLabel: Утверждающий
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Утверждающий
+  settings: []
+  title: UF_CRM_1721820934
+  type: employee
+
+===== UF_CRM_1752663182 =====
+  filterLabel: Ответственный за обследования (сотрудник в битриксе)
+  formLabel: Ответственный за обследования (сотрудник в битриксе)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за обследования (сотрудник в битриксе)
+  settings: []
+  title: UF_CRM_1752663182
+  type: employee
+
+===== UF_CRM_1752663539 =====
+  filterLabel: Ответственный за документацию
+  formLabel: Ответственный за документацию
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Ответственный за документацию
+  settings: []
+  title: UF_CRM_1752663539
+  type: employee
+
+===== UF_CRM_1747209895 =====
+  filterLabel: Заявитель (Заполняется автоматически)
+  formLabel: Заявитель (Заполняется автоматически)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Заявитель (Заполняется автоматически)
+  settings: []
+  title: UF_CRM_1747209895
+  type: employee
+
+===== UF_CRM_1739539921 =====
+  filterLabel: Prodvig. Тех. поле ответственный
+  formLabel: Prodvig. Тех. поле ответственный
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Prodvig. Тех. поле ответственный
+  settings: []
+  title: UF_CRM_1739539921
+  type: employee
+
+===== UF_CRM_3834411152636 =====
+  filterLabel: Руководитель (Пользователь)
+  formLabel: Руководитель (Пользователь)
+  isDynamic: True
+  isImmutable: False
+  isMultiple: False
+  isReadOnly: False
+  isRequired: False
+  listLabel: Руководитель (Пользователь)
+  settings: []
+  title: UF_CRM_3834411152636
+  type: employee
+
+
+===== FIELDS WITH REAL RUSSIAN TITLES =====
+TITLE | Название | string
+TYPE_ID | Тип | crm_status
+CATEGORY_ID | Воронка | crm_category
+STAGE_ID | Стадия сделки | crm_status
+STAGE_SEMANTIC_ID | Группа стадии | string
+IS_NEW | Новая сделка | char
+IS_RECURRING | Регулярная сделка | char
+IS_RETURN_CUSTOMER | Повторная сделка | char
+IS_REPEATED_APPROACH | Повторное обращение | char
+PROBABILITY | Вероятность | integer
+CURRENCY_ID | Валюта | crm_currency
+OPPORTUNITY | Сумма | double
+TAX_VALUE | Ставка налога | double
+COMPANY_ID | Компания | crm_company
+CONTACT_ID | Контакт | crm_contact
+CONTACT_IDS | Контакты | crm_contact
+QUOTE_ID | Предложение | crm_quote
+BEGINDATE | Дата начала | date
+CLOSEDATE | Дата завершения | date
+OPENED | Доступна для всех | char
+CLOSED | Закрыта | char
+COMMENTS | Комментарий | string
+ASSIGNED_BY_ID | Ответственный | user
+CREATED_BY_ID | Кем создана | user
+MODIFY_BY_ID | Кем изменена | user
+DATE_CREATE | Дата создания | datetime
+DATE_MODIFY | Дата изменения | datetime
+SOURCE_ID | Источник | crm_status
+SOURCE_DESCRIPTION | Дополнительно об источнике | string
+LEAD_ID | Лид | crm_lead
+ADDITIONAL_INFO | Дополнительная информация | string
+LOCATION_ID | Местоположение | location
+ORIGINATOR_ID | Внешний источник | string
+ORIGIN_ID | Идентификатор элемента во внешнем источнике | string
+UTM_SOURCE | Рекламная система | string
+UTM_MEDIUM | Тип трафика | string
+UTM_CAMPAIGN | Обозначение рекламной кампании | string
+UTM_CONTENT | Содержание кампании | string
+UTM_TERM | Условие поиска кампании | string
+PARENT_ID_146 | Логистика и Снабжение | crm_entity
+PARENT_ID_151 | Договоры | crm_entity
+PARENT_ID_159 | Аренда(проживание) | crm_entity
+PARENT_ID_1048 | Сметный отдел | crm_entity
+PARENT_ID_1058 | Проектирование | crm_entity
+PARENT_ID_1062 | СМР | crm_entity
+PARENT_ID_1102 | Оформление допусков / аттестатов / сертификатов | crm_entity
+
+
+===== KEYWORD SEARCH IN ALL FIELD VALUES =====
+  'Заказ клиента' -> UF_CRM_1693298354712 title=UF_CRM_1693298354712
+  'Заказ клиента' -> UF_CRM_1728653780 title=UF_CRM_1728653780
+  'Заказ клиента' -> UF_CRM_1781083217939 title=UF_CRM_1781083217939
+  'Подразделение' -> UF_CRM_1690169191 title=UF_CRM_1690169191
+  'Подразделение' -> UF_CRM_1699868885804 title=UF_CRM_1699868885804
+  'Подразделение' -> UF_CRM_1744896002 title=UF_CRM_1744896002
+  'Подразделение' -> UF_CRM_1721728466 title=UF_CRM_1721728466
+  'Группа проект' -> UF_CRM_1690169216 title=UF_CRM_1690169216
+  'Наша компан' -> UF_CRM_1707998114 title=UF_CRM_1707998114
+  'Руководитель' -> UF_CRM_3834411152636 title=UF_CRM_3834411152636
+  'Руководитель' -> UF_CRM_1707998503 title=UF_CRM_1707998503
+  'Руководитель' -> UF_CRM_1674826014 title=UF_CRM_1674826014
+  'Руководитель' -> UF_CRM_1747210029 title=UF_CRM_1747210029
+  'Утверждающ' -> UF_CRM_1721820934 title=UF_CRM_1721820934
+  'предоплат' -> UF_CRM_1691987960387 title=UF_CRM_1691987960387
+  'предоплат' -> UF_CRM_1692010347655 title=UF_CRM_1692010347655
+  'предоплат' -> UF_CRM_1722501012 title=UF_CRM_1722501012
+  'предоплат' -> UF_CRM_1733494955 title=UF_CRM_1733494955
+  'предоплат' -> UF_CRM_1747043988218 title=UF_CRM_1747043988218
+  'предоплат' -> UF_CRM_1747119277936 title=UF_CRM_1747119277936
+  'предоплат' -> UF_CRM_1615912474 title=UF_CRM_1615912474
+  'предоплат' -> UF_CRM_1631708580445 title=UF_CRM_1631708580445
+  'предоплат' -> UF_CRM_1746430113951 title=UF_CRM_1746430113951
+  'Конечный' -> UF_CRM_1734616709 title=UF_CRM_1734616709
+  'Склад выдачи' -> UF_CRM_1721821142 title=UF_CRM_1721821142
+  'Склад выдачи' -> UF_STOCK_OUT_LIST_ID title=UF_STOCK_OUT_LIST_ID
+  'Склад выдачи' -> UF_CRM_1722838069 title=UF_CRM_1722838069
+  'Склад выдачи' -> UF_CRM_1698812862550 title=UF_CRM_1698812862550
+  'Пункт доставки' -> UF_CRM_1762861386290 title=UF_CRM_1762861386290
+  'Пункт доставки' -> UF_CRM_1761221968757 title=UF_CRM_1761221968757
+  'производств' -> UF_CRM_1665467048 title=UF_CRM_1665467048
+  'производств' -> UF_CRM_1713330282 title=UF_CRM_1713330282
+  'производств' -> UF_CRM_1728643717 title=UF_CRM_1728643717
+  'производств' -> UF_CRM_1728643797 title=UF_CRM_1728643797
+  'производств' -> UF_CRM_1743774058 title=UF_CRM_1743774058
+  'производств' -> UF_CRM_1755671185 title=UF_CRM_1755671185
+  'производств' -> UF_CRM_1757396584 title=UF_CRM_1757396584
+  'производств' -> UF_CRM_1762861653744 title=UF_CRM_1762861653744
+  'производств' -> UF_CRM_1762861667177 title=UF_CRM_1762861667177
+  'производств' -> UF_CRM_1755588003954 title=UF_CRM_1755588003954
+  'производств' -> UF_CRM_1755863069225 title=UF_CRM_1755863069225
+  'производств' -> UF_CRM_1754905185286 title=UF_CRM_1754905185286
+  'производств' -> UF_CRM_1757396502 title=UF_CRM_1757396502
+  'производств' -> UF_CRM_1761634981 title=UF_CRM_1761634981
+  'производств' -> UF_CRM_1761643215004 title=UF_CRM_1761643215004
+  'отгруз' -> UF_CRM_1696331830205 title=UF_CRM_1696331830205
+  'отгруз' -> UF_CRM_1710252214728 title=UF_CRM_1710252214728
+  'отгруз' -> UF_CRM_1733205619 title=UF_CRM_1733205619
+  'Направление деятельности' -> UF_CRM_1744896704 title=UF_CRM_1744896704
+  'GUID' -> UF_ONEC_GUID title=UF_ONEC_GUID
+  '1С' -> UF_ONEC_GUID title=UF_ONEC_GUID
+  '1С' -> UF_STOCK_OUT_LIST_ID title=UF_STOCK_OUT_LIST_ID
+  '1С' -> UF_STOCK_IN_LIST_ID title=UF_STOCK_IN_LIST_ID
+  '1С' -> UF_CRM_1743773583 title=UF_CRM_1743773583
+  '1С' -> UF_CRM_1743774058 title=UF_CRM_1743774058
+  '1С' -> UF_CRM_1761630975644 title=UF_CRM_1761630975644
+  '1С' -> UF_CRM_UF_CLOSE_SYNC_ONEC title=UF_CRM_UF_CLOSE_SYNC_ONEC
+
+
+===== STAGE_ID =====
+{
+  "type": "crm_status",
+  "isRequired": false,
+  "isReadOnly": false,
+  "isImmutable": false,
+  "isMultiple": false,
+  "isDynamic": false,
+  "statusType": "DEAL_STAGE",
+  "title": "Стадия сделки"
+}
